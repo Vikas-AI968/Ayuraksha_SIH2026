@@ -1,0 +1,18 @@
+TITLE: Budapest Treaty Deposit Requirements for Herbal Fermentation Microorganisms
+AUTHORITY: IP-SAKTI Synthetic WIPO Depositary
+JURISDICTION: International
+DOMAIN: Patents
+DOCUMENT_TYPE: Treaty
+EFFECTIVE_DATE: 2024-04-12
+SOURCE_URL: synthetic://wipo/budapest-treaty-microorganisms-2024
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+BUDAPEST TREATY ON INTERNATIONAL DEPOSIT OF MICROORGANISMS
+
+Rule 1. Mandatory Biological Deposit
+When an Ayurvedic patent process involves a novel fermentation strain (e.g. Asava or Arishta yeast starter cultures) that cannot be described in written text, the strain must be deposited in an International Depositary Authority (IDA) under the Budapest Treaty.
+
+Rule 2. Deposit Reference in Patent Specification
+The deposit receipt number, strain access code, and depositary location must be disclosed in the patent specification before publication.

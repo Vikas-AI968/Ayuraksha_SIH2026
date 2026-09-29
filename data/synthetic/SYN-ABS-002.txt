@@ -1,0 +1,20 @@
+TITLE: Scenario Analysis: Biological Resource Access and Foreign Patent Approval
+AUTHORITY: IP-SAKTI Synthetic National Biodiversity Authority
+JURISDICTION: India
+DOMAIN: Biodiversity/ABS
+DOCUMENT_TYPE: Scenario
+EFFECTIVE_DATE: 2026-01-10
+SOURCE_URL: synthetic://nba-india/resource-access-scenario-2026
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+CASE SCENARIO: INTERNATIONAL PATENT FILING USING INDIAN HERBAL EXTRACTS
+
+Fact Pattern:
+A joint venture company based in Bengaluru with 15% foreign venture capital equity isolated an active alkaloid from Indian Sarpagandha (Rauvolfia serpentina) and filed a PCT patent application without NBA approval.
+
+Legal Consequences & Mandatory Remedies:
+1. Filing a patent application inside or outside India based on Indian biological resources without NBA approval violates Section 6 of the Biological Diversity Act.
+2. The Indian Patent Office shall withhold final patent grant until an official Form III NBA clearance certificate is produced.
+3. The applicant must execute an ABS agreement committing 0.25% of commercial revenues to local tribal conservation communities in the Western Ghats.

@@ -1,0 +1,23 @@
+TITLE: Access and Benefit Sharing (ABS) Compliance under Biological Diversity Act
+AUTHORITY: IP-SAKTI Synthetic National Biodiversity Authority
+JURISDICTION: India
+DOMAIN: Biodiversity/ABS
+DOCUMENT_TYPE: Act
+EFFECTIVE_DATE: 2024-10-01
+SOURCE_URL: synthetic://nba-india/abs-compliance-rules-2024
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+ACCESS AND BENEFIT SHARING (ABS) REGULATORY COMPLIANCE
+
+Section 1. Mandatory NBA Approval for Commercial Utilization
+Under Section 3 and Section 4 of the Biological Diversity Act, 2002 (as amended):
+(a) Foreign entities, NRI entities, or Indian companies with foreign equity sourcing Indian biological resources (e.g. Neem, Ashwagandha, Tulsi, Brahmi) for commercial research or patent application must obtain prior approval from the National Biodiversity Authority (NBA).
+(b) Indian citizens and domestic entities must notify State Biodiversity Boards (SBB) prior to commercial access.
+
+Section 2. ABS Payment Obligations
+Commercial utilization of biological resources attracts mandatory Access and Benefit Sharing (ABS) fees ranging from 0.1% to 0.5% of annual gross ex-factory sales value, payable to the NBA or relevant Benefit Claimants.
+
+Section 3. Penalties for Non-Compliance
+Accessing biological resources without prior NBA approval or transferring research results to foreign entities without consent is a punishable offense under Section 55 with imprisonment and fine.

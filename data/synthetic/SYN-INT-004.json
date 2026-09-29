@@ -1,0 +1,13 @@
+{
+  "document_id": "SYN-INT-004",
+  "title": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge",
+  "authority": "IP-SAKTI Synthetic WIPO Secretariat",
+  "jurisdiction": "International",
+  "domain": "Traditional Knowledge",
+  "document_type": "Treaty",
+  "effective_date": "2024-05-24",
+  "source_url": "synthetic://wipo/gratk-treaty-2024",
+  "source_type": "synthetic",
+  "version": "1.0",
+  "content": "WIPO GRATK TREATY (MAY 2024)\n\nArticle 3. Mandatory Patent Disclosure Requirement\nWhere a claimed invention in a patent application is materially based on genetic resources or associated traditional knowledge, applicants shall disclose:\n(a) The country of origin of the genetic resource, or the indigenous community providing the traditional knowledge.\n(b) If country of origin is unknown, the direct source from which the applicant received the genetic resource or traditional knowledge.\n\nArticle 4. Sanctions and Legal Consequences\nContracting Parties shall provide administrative or legal remedies where an applicant intentionally fails to disclose mandatory origin details."
+}

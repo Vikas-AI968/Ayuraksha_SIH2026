@@ -1,0 +1,20 @@
+TITLE: Geographical Indications Registration for Regional Ayurvedic Formulations
+AUTHORITY: IP-SAKTI Synthetic GI Registry
+JURISDICTION: India
+DOMAIN: Geographical Indications
+DOCUMENT_TYPE: Rule
+EFFECTIVE_DATE: 2024-06-10
+SOURCE_URL: synthetic://gi-registry/ayurveda-gi-guidance-2024
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+REGULATION OF GEOGRAPHICAL INDICATIONS FOR AYURVEDIC PRODUCTS
+
+Section 1. Eligibility Criteria for Ayurvedic GI Registration
+A regional traditional Ayurvedic preparation (e.g. Navara Rice, Kerala Ayurveda Oil, Malabar Herbs) is eligible for Geographical Indication registration under the Geographical Indications of Goods (Registration and Protection) Act, 1999 if:
+(a) The product possesses specific qualities, reputation, or characteristics attributable to its geographical origin in India.
+(b) The preparation relies on specific local ecological conditions, traditional processing techniques, or indigenous medicinal plant strains native to the demarcated region.
+
+Section 2. Protection Against Generic Misuse
+Registration of an Ayurvedic GI grants exclusive rights to authorized producers registered within the specified geographic area. Unauthorized use of the GI name on generic or synthetic substitutes constitutes infringement under Section 22 of the GI Act.

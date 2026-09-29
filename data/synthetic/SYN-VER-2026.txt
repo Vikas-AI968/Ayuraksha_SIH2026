@@ -1,0 +1,20 @@
+TITLE: AYUSH Regulatory & Export Policy Guidelines (Version 2026 - Current)
+AUTHORITY: IP-SAKTI Synthetic Ministry of AYUSH
+JURISDICTION: India
+DOMAIN: Drug Classification
+DOCUMENT_TYPE: Guidance
+EFFECTIVE_DATE: 2026-01-01
+SOURCE_URL: synthetic://ayush-ministry/export-policy-2026
+SOURCE_TYPE: synthetic
+VERSION: 2026.1
+
+--- CONTENT ---
+CURRENT POLICY 2026: AYURVEDA HERBAL EXPORT STANDARDS
+
+Clause 1. Mandatory Pre-Export NBA Clearance (2026 Update)
+Effective January 1, 2026, all commercial exports of raw or processed Ayurvedic biological resources require mandatory prior NBA clearance certificate (Form III). ABS fees are updated to 0.25% of annual gross export turnover.
+
+Clause 2. Strict Heavy Metal & Pesticide Limits (2026 Standard)
+Updated heavy metal safety limits for 2026 exports: Lead (5.0 ppm), Cadmium (0.1 ppm), Mercury (0.5 ppm), Arsenic (1.5 ppm). Mandatory pesticide residue testing report is required prior to export customs clearance.
+
+[NOTE: THIS IS THE 2026 CURRENT APPLICABLE POLICY VERSION.]

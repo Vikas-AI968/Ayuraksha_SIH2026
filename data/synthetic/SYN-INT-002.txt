@@ -1,0 +1,21 @@
+TITLE: PCT International Patent Filing Route for Herbal Inventions
+AUTHORITY: IP-SAKTI Synthetic WIPO Desk
+JURISDICTION: International
+DOMAIN: Patents
+DOCUMENT_TYPE: Treaty
+EFFECTIVE_DATE: 2024-05-10
+SOURCE_URL: synthetic://wipo/pct-herbal-filing-route-2024
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+PATENT COOPERATION TREATY (PCT) PROCEDURES FOR AYURVEDIC FORMULATIONS
+
+Rule 1. International Application Filing
+An applicant seeking international patent protection across multiple countries may file a single PCT international application with the Receiving Office (such as Indian Patent Office or WIPO).
+
+Rule 2. International Searching Authority (ISA) and TKDL Search
+The International Searching Authority performs an International Search Report (ISR). Major ISAs (including Indian Patent Office) search the TKDL database during ISR generation to evaluate novelty against traditional Indian medicine prior art.
+
+Rule 3. National Phase Entry (30/31 Months)
+The applicant must enter national phase in target jurisdictions (e.g. USPTO, EPO, JPO) within 30 or 31 months from priority date. National patent laws (such as Section 3(p) in India) apply fully during national phase examination.

@@ -1,0 +1,23 @@
+TITLE: Trademark Registration Guidelines for Ayurvedic Brands and Medicine Names
+AUTHORITY: IP-SAKTI Synthetic Trademark Registry
+JURISDICTION: India
+DOMAIN: Trademarks
+DOCUMENT_TYPE: Guidance
+EFFECTIVE_DATE: 2025-03-01
+SOURCE_URL: synthetic://tm-registry/ayurvedic-brand-guidelines-2025
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+TRADEMARK CLASSIFICATION & DESCRIPTIVE NAMES IN AYURVEDA
+
+Section 1. Descriptive Classical Names Prohibition (Section 9)
+Under Section 9(1)(b) of the Trade Marks Act, 1999, trademarks which consist exclusively of marks or indications designating the kind, quality, or classical name of Ayurvedic medicines (e.g., 'Chyawanprash', 'Triphala Churna', 'Trikatu', 'Ashwagandharishta') are generic and descriptive, and cannot be registered as exclusive trademarks by any single company.
+
+Section 2. Registrable Composite Marks
+A manufacturer may register a composite trademark or brand name that incorporates a descriptive classical Ayurvedic term only if:
+(a) The mark includes a distinct, non-descriptive brand prefix (e.g., 'KILO-Chyawanprash Special').
+(b) A disclaimer is submitted disclaiming exclusive rights to the generic classical term itself under Section 17 of the Act.
+
+Section 3. Deceptive Similarity & Public Health
+Trademarks for Ayurvedic health supplements that misleadingly suggest miraculous cure properties or deceive the public regarding therapeutic class (Class 5 Pharmaceuticals vs Class 30 Food/Dietary) shall be refused registration under Section 9(2)(a).

@@ -1,0 +1,21 @@
+TITLE: Nagoya Protocol on Access to Genetic Resources and Fair Benefit Sharing
+AUTHORITY: IP-SAKTI Synthetic UN Secretariat for Biodiversity
+JURISDICTION: International
+DOMAIN: Biodiversity/ABS
+DOCUMENT_TYPE: Treaty
+EFFECTIVE_DATE: 2024-03-15
+SOURCE_URL: synthetic://cbd-un/nagoya-protocol-framework-2024
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+NAGOYA PROTOCOL ON ACCESS AND BENEFIT SHARING (ABS)
+
+Article 5. Fair and Equitable Benefit-Sharing
+Benefits arising from the utilization of genetic resources as well as subsequent applications and commercialization shall be shared in a fair and equitable way with the party providing such resources, upon mutually agreed terms (MAT).
+
+Article 6. Prior Informed Consent (PIC)
+Access to genetic resources for commercial or research utilization shall be subject to the Prior Informed Consent (PIC) of the party providing such resources, unless otherwise determined by that party.
+
+Article 7. Access to Traditional Knowledge Associated with Genetic Resources
+Parties shall take measures to ensure that traditional knowledge associated with genetic resources held by indigenous and local communities is accessed with their prior informed consent and involvement.

@@ -1,0 +1,21 @@
+TITLE: Design Protection for Herbal Product Container and Delivery Mechanisms
+AUTHORITY: IP-SAKTI Synthetic Designs Office
+JURISDICTION: India
+DOMAIN: Designs
+DOCUMENT_TYPE: Guidance
+EFFECTIVE_DATE: 2025-05-18
+SOURCE_URL: synthetic://designs-office/herbal-packaging-2025
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+INDUSTRIAL DESIGN PROTECTION FOR AYURVEDIC PACKAGING
+
+Section 1. Novelty in Packaging Aesthetics
+Under the Designs Act, 2000, industrial design registration protects only the visual aesthetic features (shape, configuration, pattern, ornament, or color composition) applied to an article of manufacture, such as a novel Ayurvedic oil applicator bottle or ergonomic herbal pill dispenser.
+
+Section 2. Exclusion of Functional Features
+Design protection does not extend to functional mechanisms, therapeutic modes of operation, or medicinal compositions. Functional utility must be sought under Patent law, not Design law.
+
+Section 3. Prior Publication Bar
+A packaging design shall not be registered if it has been disclosed to the public in India or abroad prior to filing date, or if it lacks novelty over traditional clay pot or wooden bottle shapes documented in historical archives.

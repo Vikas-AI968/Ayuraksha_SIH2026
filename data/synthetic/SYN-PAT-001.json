@@ -1,0 +1,13 @@
+{
+  "document_id": "SYN-PAT-001",
+  "title": "Guidelines for Patent Applications in Traditional Knowledge & Ayurveda",
+  "authority": "IP-SAKTI Synthetic Patent Office",
+  "jurisdiction": "India",
+  "domain": "Patents",
+  "document_type": "Guidance",
+  "effective_date": "2025-01-15",
+  "source_url": "synthetic://patent-office/guidelines-tk-ayurveda-2025",
+  "source_type": "synthetic",
+  "version": "1.0",
+  "content": "CHAPTER I: INTELLECTUAL PROPERTY AND TRADITIONAL KNOWLEDGE IN INDIA\n\nSection 1. Purpose and Scope\nThese synthetic guidelines outline the patentability criteria for inventions relating to Ayurvedic formulations, traditional herbal knowledge, and medicinal plant extracts under the Indian Patents Act, 1970.\n\nSection 2. Section 3(p) Exclusion\nUnder Section 3(p) of the Patents Act, 1970, an invention which in effect is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components is not an patentable invention. \n\nSection 3. Patentability of Synergistic Combinations\nAn Ayurvedic formulation combining traditional herbs (such as Ashwagandha and Turmeric) may be patentable if:\n(a) The applicant demonstrates a non-obvious synergistic therapeutic effect exceeding the additive sum of individual components.\n(b) Experimental comparative data shows unexpectedly superior bio-availability or reduced toxicity.\n(c) The exact active extract fraction is novel, structurally characterized, and isolated through a non-conventional process.\n\nSection 4. TKDL Prior Art Citation\nExaminers shall search the Traditional Knowledge Digital Library (TKDL) database. If a claimed formulation or therapeutic usage is documented in classical texts (e.g. Charaka Samhita, Sushruta Samhita, Astanga Hridaya) indexed in TKDL, the claim shall be rejected under Section 3(p) and Section 3(d) for lacking novelty and inventive step."
+}

@@ -1,0 +1,1999 @@
+--- Page 1 ---
+
+
+--- Page 2 ---
+ Contents 
+ 1.  Introduction………………………………………………………………………….…3 
+ 1.1  Overview……………………………………………………………………...…3 
+ 1.2  Objective……………………………………………….…………………….......4 
+ 1.3  Scope…………………………………….…………….………………………....4 
+ 2.  Terminologies………………………………………………….…….………………….4 
+ 3.  Limitations and risks while using AI tools and the need for 
+ human oversight………………………………………………….…………………….6 
+ 3.1 Limitations and Risks…………………………………………………………..….6 
+ 3.1.1 Profile Sensitivity……………………………………...…..………...…...6 
+ 3.1.2 Prompt Discipline…………………………………………..………...….6 
+ 3.1.3 Hallucination or Fabrication…………………………………….….......6 
+ 3.1.4 Omission of Critical Detail………………………………………...…….7 
+ 3.1.5 False Pattern Matching…………………………………..……………...7 
+ 3.1.6 Loss of Technical Context………………………………….…..………...7 
+ 3.1.7 Classification and Search Drift……………………………………..…..7 
+ 3.1.8 Over-breadth or Over-narrowness………………………...…………..7 
+ 3.1.9 Black-box Opacity……………………………………………......……….7 
+ 3.1.10 Confidentiality Risk………………………………………..….……..…7 
+ 3.1.11 Misguidance…………………………..……………………….…...……7 
+ 3.1.12 Incomplete or Outdated Data……………………………...………….8 
+ 3.1.13 Bias in Training Data and Results……………….……………..…….8 
+ 3.1.14 Difficulty with Complex Patent Language and Nuances…..……….8 
+ 3.2. Need for human oversight……………..………………………………..….…….8 
+ 4.  Typical uses of AI in patent examination, associated risks and safeguards...….8 
+ 5.  Prohibited Uses……………...………………………………………………………...14 
+ 6.  Administrative Measures……………….……………………………………………15 
+ 2  of 16 
+
+--- Page 3 ---
+ 1. Introduction 
+ 1.1 Overview 
+ Artificial  Intelligence  (AI)  is  a  machine-based  system  that  can  generate  outputs  such  as 
+ predictions,  content,  recommendations,  or  decisions  on  the  basis  of  input  data  and 
+ prompts.  Generative  Artificial  Intelligence  (GenAI)  is  a  type  of  AI  that  generates  new 
+ content, such as text, images, audio, or video, by learning patterns from input data  1  . 
+ With  the  rapid  growth  in  the  use  of  generative  tools  across  different  fields,  it  has  become 
+ necessary  to  consider  their  use  in  patent  examination  as  well.  Patent  examination  is 
+ document-intensive,  technically  complex,  legally  evolving  and  time-sensitive.  Scholarly 
+ work  in  the  patent  field  shows  that  such  tools  can  assist  in  suggesting  search  terms, 
+ retrieving  and  ranking  relevant  documents,  visualizing  content,  and  reducing  the  time  and 
+ cost  of  screening  large  numbers  of  patents  2  .  More  recent  work  has  also  begun  to  examine 
+ their use in novelty analysis  3  ,  4  . 
+ Various  policy  documents  issued  by  the  Government  of  India  5  support  a  structured  and 
+ responsible  approach  to  the  use  of  AI  technology  in  public  functions.  These  documents 
+ recognise  its  utility  in  improving  efficiency  and  public  service  delivery,  while  emphasising 
+ human  oversight,  accountability,  safety,  transparency,  privacy,  risk-based  governance,  and 
+ institutional safeguards. 
+ It  is  in  this  background  that  the  present  Guidelines  have  been  prepared.  The  purpose  is  to 
+ identify  how  the  benefits  of  such  tools  may  be  appropriately  used  in  patent  examination 
+ procedures,  while  ensuring  that  the  technical,  statutory,  and  quasi-judicial  functions  of  the 
+ Examiner and Controller do not get compromised or fail to achieve the intended results. 
+ A  non-exhaustive  list  of  illustrative  examples  for  different  use-cases  in  these  Guidelines  was 
+ prepared  with  the  aid  of  certain  public  Generative  AI  tools  and  certain  private  tools 
+ accessible  to  the  Patent  Office  and  given  in  Annexure-I.  Since  such  tools  are  proprietary  in 
+ nature,  they  have  not  been  specifically  identified  in  these  Guidelines.  As  the  technology 
+ 5  NITI Aayog, Government of India, RESPONSIBLE AI #AIFORALL, Approach Document for India: Part-1 & 
+ Part-2 
+ 4  Ikoma, H., Mitamura, T., 2025. Can AI Examine Novelty of Patents?: Novelty Evaluation Based on the 
+ Correspondence between Patent Claim and Prior Art. arXiv:2502.06316. 
+ 3  Jang, H., Yoon, B., 2025. An explainable artificial intelligence–human collaborative model for investigating patent 
+ novelty. Engineering Applications of Artificial Intelligence 154, 110984. 
+ 2  Setchi,  R.,  Spasić,  I.,  Morgan,  J.,  Harrison,  C.,  Corken,  R.,  2021.  Artificial  intelligence  for  patent  prior  art 
+ searching. World Patent Information 64, 102021. https://doi.org/10.1016/j.wpi.2021.102021. 
+ 1  OECD,  2024.  Artificial  intelligence,  data  and  competition.  Organisation  for  Economic  Co-operation  and 
+ Development, Paris 
+ 3  of 16 
+
+--- Page 4 ---
+ continues  to  evolve  rapidly,  these  Guidelines  may  require  revision  from  time  to  time  in  light 
+ of further developments. 
+ 1.2 Objective 
+ These  Guidelines  are  intended  to  guide  and  regulate  the  use  of  Artificial  Intelligence  in 
+ Patent  examination  in  a  manner  that  supports  efficiency  and  quality,  while  preserving 
+ confidentiality,  accountability,  consistency  and  the  independent  application  of  mind  by  the 
+ Examiner or Controller. 
+ 1.3 Scope 
+ These  Guidelines  shall  apply  to  the  use  of  Artificial  Intelligence  in  Patent  examination  tasks 
+ such  as  screening,  classification,  search,  translation  support,  drafting  support,  technical 
+ comparison or knowledge retrieval. 
+ 2. Terminologies 
+ 2.1 Artificial Intelligence (AI) 
+ Artificial  Intelligence  means  a  machine-based  system  capable  of  generating  outputs  such  as 
+ predictions,  recommendations,  classifications,  summaries,  or  content  on  the  basis  of  input 
+ data along with prompts. 
+ 2.2 AI prompt 
+ An  AI  prompt  is  a  specific  text,  command,  image,  or  query  provided  to  an  artificial 
+ intelligence model to guide it in producing a desired output  . 
+ 2.3 Generative Artificial Intelligence (Gen AI) 
+ Generative  Artificial  Intelligence  means  any  Artificial  Intelligence  system  capable  of 
+ generating  text,  images,  summaries,  explanations,  or  other  content  in  response  to  prompts 
+ or instructions. 
+ 2.4 AI tool 
+ An  AI  tool  is  specific  software  leveraging  these  models  to  perform  tasks.  AI  tools  may  be 
+ classified into public and private. 
+ 4  of 16 
+
+--- Page 5 ---
+ 2.5 Public AI tools 
+ An  AI  tool  or  application  that  is  accessible  to  the  public  through  free  or  commercially 
+ available  means,  including  both  free-tier  and  paid  versions  of  consumer-facing  AI 
+ platforms.  Such  tools  are  trained  on  large  and  diverse  datasets  from  publicly  available 
+ sources,  including  text,  images,  audio,  video,  and  other  digital  content.  This  makes  them 
+ versatile  across  many  tasks,  but  it  may  also  limit  their  depth  and  reliability  in  any  single 
+ specialised  domain.  The  data  security  features  and  functional  capabilities  of  the  free  and 
+ the  advanced  paid  versions  may  differ,  and  this  aspect  needs  to  be  kept  in  view  while  using 
+ Public AI for assistance in patent examination. 
+ 2.6 Private AI tools 
+ Private  AI  tools  refer  to  artificial  intelligence  systems  operating  in  closed  or  restricted 
+ environments,  often  trained  on  proprietary  or  controlled  datasets.  Such  systems  are 
+ typically  owned  and  managed  by  specific  entities  who  control  the  data  feeding  the  system 
+ and  retain  the  IP  of  the  models  involved.  The  primary  characteristic  of  private  AI  lies  in  its 
+ exclusivity.  These  systems  limit  access,  allowing  only  authorized  personnel  or  entities.  They 
+ are  suitable  for  processing  sensitive  data  and  proprietary  information,  keeping  the  system 
+ closed with heightened security measures to safeguard against unauthorized access. 
+ 2.7 AI-assisted output 
+ AI-assisted  output  refers  to  content,  decisions  or  products  generated  through  a 
+ collaborative  process  where  AI  tools  are  used  to  enhance,  speed  up  or  augment  human 
+ work.  Unlike  fully  automated  output  generation  by  AI  tools,  AI-assisted  output  involves 
+ "human  in  the  loop",  meaning  a  person  provides  direction,  context,  and  oversight,  ensuring 
+ the final result meets specific quality and intended standards. 
+ 2.8 Prompt Engineering 
+ “Prompt  engineering  is  the  art  and  science  of  designing  and  optimizing  prompts  to  guide  AI 
+ models,  particularly  LLMs,  towards  generating  the  desired  responses.  By  carefully  crafting 
+ prompts,  you  provide  the  model  with  context,  instructions  and  examples  that  help  it 
+ understand  your  intent  and  respond  in  a  meaningful  way.  Think  of  it  as  providing  a 
+ roadmap for the AI, steering it towards the specific output you have in mind.”  6 
+ 6  Prompt Engineering for AI Guide | Google Cloud 
+ 5  of 16 
+
+--- Page 6 ---
+ 3.  Limitations  and  risks  while  using  AI  tools  and  the  need  for 
+ human oversight 
+ 3.1 Limitations and Risks 
+ Common  ways  in  which  Artificial  Intelligence  may  make  mistakes  are  given  below.  These 
+ emphasize  the  need  for  thorough  human  oversight.  The  following  are  not  exhaustive  as  AI 
+ is fast evolving and new risks are also identified during the process. 
+ 3.1.1  Profile  Sensitivity:  The  output  of  AI  tools  may  be  influenced  by  prior  interactions, 
+ past  prompts  or  user-specific  contextual  patterns.  This  may  result  in  responses  being 
+ shaped  not  only  by  the  immediate  prompt,  but  also  by  the  user’s  earlier  usage  history.  Such 
+ profiling  may  affect  the  veracity,  neutrality,  consistency  and  predictability  of  the  output  and 
+ should  therefore  be  kept  in  mind  while  using  AI  tools  for  official  work.  Accordingly,  the 
+ output must be independently assessed. 
+ 3.1.2  Prompt  Discipline:  Apart  from  such  profiling-related  influence,  the  quality, 
+ relevance  and  direction  of  AI-generated  output  are  also  materially  shaped  by  the  way  in 
+ which  the  prompt  is  framed.  Prompt  discipline  means  the  careful  and  structured  framing  of 
+ prompts  so  that  the  request  made  to  an  AI  tool  is  clear,  precise,  relevant  and  limited  to  the 
+ intended  purpose.  It  involves  defining  the  task  properly,  providing  the  necessary  context, 
+ specifying  the  expected  form  of  output  where  required,  and  avoiding  unnecessary 
+ misleading  content.  This  is  important  because  AI-generated  output  is  often  influenced  by 
+ the  wording,  scope,  and  structure  of  the  prompt.  For  example,  a  vague  prompt  such  as 
+ “analyse  this  patent  claim”  may  produce  a  broad  or  unfocused  response,  whereas  a  more 
+ disciplined  prompt  such  as  “identify  the  key  technical  features  of  this  claim  and  generate 
+ possible  search  terms  for  prior-art  search”  is  more  likely  to  produce  a  controlled  and  useful 
+ output. 
+ 3.1.3  Hallucination  or  Fabrication:  The  AI  tools  may  present  a  confident  but  unsupported 
+ statement,  citation,  explanation,  or  mapping.  Such  hallucinations  may  be  extrinsic  or 
+ intrinsic.  An  intrinsic  hallucination  occurs  when  the  AI  tool  generates  information  that  is 
+ not  present  in  the  provided  context,  thereby  fabricating  facts  to  fill  a  knowledge  gap.  An 
+ intrinsic  hallucination  occurs  where  the  AI  tool  is  given  specific  source  documents  or 
+ context  in  the  prompt,  but  its  output  contradicts,  distorts  or  misrepresents  that  provided 
+ information. 
+ In  the  context  of  patents,  hallucinations  may  include  non-existent  prior  art,  fabricated 
+ judgments,  contradicting  claims,  scope  etc.  Generative  AI  tools  generally  provide  links  to 
+ citations  which  form  the  basis  of  their  output.  The  sources  shall  be  verified  for  their 
+ 6  of 16 
+
+--- Page 7 ---
+ authenticity  and  reliability.  Any  resource  cited  by  AI  shall  be  cross-checked  from  authorised 
+ sources  like  the  original  publisher,  or  other  reliable  sources  by  conducting  fresh  search  on 
+ the internet, so as to avoid the risk of adopting a citation that does not exist in reality. 
+ Where  AI  is  used  in  relation  to  cited  material,  its  output  shall  be  compared  with  the  original 
+ source  to  ensure  that  the  source  has  not  been  misrepresented.  This  is  particularly 
+ important  in  the  case  of  judicial  precedents,  since  each  judgment  must  be  understood  in  the 
+ context  of  the  facts  and  circumstances  in  which  it  was  delivered.  AI  may  misread  the  ratio, 
+ overstate  the  principle  laid  down,  or  apply  it  incorrectly  to  a  different  factual  situation. 
+ Human judgment therefore remains essential in understanding and applying precedents. 
+ 3.1.4  Omission  of  Critical  Detail:  The  AI  tool  may  miss  a  limiting  claim  feature,  an 
+ amendment, a disclaimer, a qualifier or a technical relationship. 
+ 3.1.5  False  Pattern  Matching:  The  AI  tool  may  identify  surface  similarity  and  overlook 
+ legal  or  technical  differences  that  matter.  A  document  may  appear  relevant  based  on 
+ keywords  or  semantic  similarity  while  being  legally  or  technically  irrelevant  to  the  claim 
+ under examination. 
+ 3.1.6  Loss  of  Technical  Context:  The  AI  tool  may  summarise  or  translate  a  passage 
+ without preserving its exact technical meaning. 
+ 3.1.7  Classification  and  Search  Drift  :  AI  may  suggest  classifications  that  are  broader  than 
+ warranted,  or  search  terms  that  introduce  large  amounts  of  irrelevant  prior  art,  diverting 
+ the  examination  from  the  correct  technical  field.  Classification  and  search  term  outputs  are 
+ sensitive to the model used, the prompt framing, and the conditioning parameters. 
+ 3.1.8  Over-breadth  or  Over-narrowness:  The  AI  tool  may  expand  a  concept  too  widely  or 
+ interpret it too narrowly, thereby distorting search or classification. 
+ 3.1.9  Black-box  Opacity:  The  officer  may  not  know  why  a  particular  suggestion  was 
+ made, which makes verification and accountability more difficult. 
+ 3.1.10  Confidentiality  Risk:  The  convenience  of  an  external  tool  may  lead  to  improper 
+ sharing of unpublished or internal material. 
+ 3.1.11  Misguidance  :  Even  where  the  output  is  not  wholly  fabricated,  the  system  may  still 
+ guide  the  user  in  a  wrong  direction  by  suggesting  an  unsuitable  classification  path,  an 
+ irrelevant  search  approach,  a  weak  comparison,  or  an  unsound  line  of  reasoning.  Such 
+ misguidance  may  be  particularly  difficult  to  detect  where  the  output  appears  fluent, 
+ structured, and persuasive. 
+ 7  of 16 
+
+--- Page 8 ---
+ 3.1.12  Incomplete  or  Outdated  Data:  AI  tools  often  suffer  from  incomplete  data  coverage 
+ and  outdated  knowledge  bases.  They  lack  real-time  access  to  all  major  patent  databases, 
+ non-patent  literature  (NPL),  and  very  recent  publications,  and  their  training  data  cut-off 
+ dates  prevent  awareness  of  the  latest  prior  art  and  legal  developments.  They  also  have  a 
+ limited  capability  to  seamlessly  integrate  heterogeneous  databases  with  differing  formats 
+ and quality standards. 
+ 3.1.13  Bias  in  Training  Data  and  Results:  AI  systems  inherently  reflect  biases  present  in 
+ their  training  data,  which  can  lead  to  over-representation  or  under-representation  of 
+ certain  jurisdictions,  technologies,  languages,  or  inventors.  Search  algorithms  may 
+ accordingly  exhibit  systematic  blind  spots,  disproportionately  favouring  specific  patterns, 
+ sources, or technical fields while neglecting others. 
+ 3.1.14  Difficulty  with  Complex  Patent  Language  and  Nuances:  AI  tools  frequently 
+ misinterpret  the  highly  specialized  legal,  technical,  and  procedural  language  used  in  patent 
+ claims  and  specifications.  They  also  have  a  limited  ability  to  properly  understand  patent 
+ drawings,  flowcharts,  graphs,  and  other  visual  components  of  patent  documents,  and  they 
+ struggle  with  contextual  nuances,  jurisdictional  differences,  and  dynamic  legal  concepts 
+ such as claim construction, enablement, and inventive step. 
+ 3.2 Need for human oversight 
+ The  Indian  policy  material  on  use  of  Artificial  Intelligence  repeatedly  emphasises  the  need 
+ for  human  oversight,  verification  and  accountability.  Artificial  Intelligence  is  intended  to 
+ assist,  and  not  replace,  the  functions  or  the  works  of  the  Examiner  or  Controller  .  Any  use  of 
+ Artificial  Intelligence  that  may  influence  search  or  examination  shall  be  subject  to  manual 
+ review  and  validation.  The  Examiner  or  Controller  shall  remain  fully  responsible  for  every 
+ official  act  performed  in  the  course  of  search  and  examination  which  involves  the  use  of  AI 
+ in  any  manner.  The  use  of  AI  shall  not  dilute  or  transfer  such  responsibility.  Any  AI-assisted 
+ output  used  in  examination  shall  be  critically  reviewed,  assessed  and  adopted  only  after  the 
+ officer is personally satisfied as to its correctness, relevance and appropriateness. 
+ 4.  Typical  uses  of  AI  in  patent  examination,  potential  risks  and 
+ associated safeguards 
+ This  section  describes  how  Artificial  Intelligence  may  assist  Patent  examination,  where 
+ such  use  may  create  risk  and  what  safeguards  are  necessary.  A  few  examples  are  provided 
+ in  the  Annexure-I  to  illustrate  the  benefits  and  risks.  Checklist  and  declaration  are  provided 
+ in Annexure-II. 
+ 8  of 16 
+
+--- Page 9 ---
+ The  patent  search  databases  subscribed  by  the  Patent  Office  have  in-built  AI  tools 
+ specifically  designed  for  patent  search  purposes.  These  private  AI  tools  offer  better  data 
+ security and are better capable of understanding prompts in the patent context. 
+ S. No  Type of use  Possible 
+ benefits 
+ Potential risks  Safeguards 
+ 1  Use of AI for 
+ identifying 
+ candidate 
+ IPC/CPC 
+ classifications 
+ May assist in 
+ generating 
+ relevant IPC/CPC 
+ classifications 
+ Model-sensitive, 
+ erroneous, 
+ irrelevant  or 
+ broader classes 
+ may also be 
+ suggested by the 
+ AI tool which can 
+ drift the direction 
+ of the search 
+ 1.  Classification shall be 
+ checked from an 
+ authenticated source, for 
+ example, WIPO-IPC or CPC 
+ website. 
+ 2.  It shall be manually verified 
+ with the claims read 
+ together with the complete 
+ specification. 
+ 3.  The classification shall be 
+ manually adjusted, where 
+ necessary, so as to move the 
+ search in the right direction 
+ and appropriately reflect the 
+ invention. 
+ 4.  The appropriate 
+ classification shall be 
+ selected having regard to the 
+ purpose of the search which 
+ is to ascertain novelty or 
+ inventive step. 
+ 2  Use of AI for 
+ generating 
+ search terms 
+ and concept 
+ clusters 
+ May assist in 
+ generating 
+ synonyms, 
+ related 
+ expressions, 
+ broader terms, 
+ alternative 
+ spellings and 
+ related technical 
+ Model-sensitive, 
+ Terms may be 
+ broader or 
+ narrower 
+ Officer  must  determine  and 
+ select  the  search  terms  with 
+ complete human oversight: 
+ 1.  which  terms  remain 
+ sufficiently  close  to  the 
+ claimed subject matter; 
+ 2.  which  expressions  are 
+ technically  adjacent  but 
+ 9  of 16 
+
+--- Page 10 ---
+ concepts.  legally  or  functionally 
+ different; 
+ 3.  which  broader  terms  may  be 
+ used  selectively  for 
+ exploratory search; and 
+ 4.  which  terms  may  introduce 
+ large  amounts  of  irrelevant 
+ prior  art  or  move  the  search 
+ into  neighbouring  but 
+ non-relevant technical areas. 
+ 3  Use of AI for 
+ preliminary 
+ claim-feature 
+ extraction 
+ May assist in 
+ breaking long 
+ claims into 
+ structured 
+ feature lists for 
+ comparison 
+ Incorrect splitting 
+ of claim language, 
+ loss of relational 
+ phrases, and 
+ distortion of 
+ novelty or 
+ inventive-step 
+ analysis 
+ 1.  The  claim  shall  be  re-read 
+ manually  to  ensure  that 
+ extracted  features  are  not 
+ split  incorrectly  or  merged 
+ improperly. 
+ 2.  Numerical  ranges,  and 
+ dependencies  between 
+ features  shall  be  verified 
+ manually. 
+ 3.  No search or novelty/ 
+ inventive-step analysis shall 
+ be undertaken on the basis 
+ of an unverified 
+ AI-generated feature list. 
+ 4  Use of AI for 
+ translation 
+ support 
+ May assist in 
+ obtaining a 
+ rough 
+ understanding of 
+ foreign-language 
+ documents 
+ Loss of technical 
+ nuance, 
+ mistranslation of 
+ key structural or 
+ functional terms, 
+ and distortion of 
+ exact meaning 
+ 1.  The  translated  text  shall  be 
+ read  together  with  the 
+ drawings,  figures,  or 
+ surrounding  disclosure 
+ where necessary. 
+ 2.  Where  machine  translation 
+ is  relied  upon,  that  fact  shall 
+ be  clearly  recorded  in  the 
+ reasoning for patentability. 
+ 5  Use of AI for 
+ improving the 
+ structure or 
+ May assist in 
+ improving 
+ grammar, 
+ Insertion of 
+ unsupported 
+ statements, 
+ 1.  AI may be used only after 
+ the officer has prepared the 
+ substantive draft or 
+ 10  of 16 
+
+--- Page 11 ---
+ language of a 
+ draft office 
+ communication 
+ coherence, 
+ formatting, 
+ headings, and 
+ concise 
+ expression 
+ distortion of the 
+ officer’s 
+ reasoning, legally 
+ imprecise 
+ language, or 
+ non-existent 
+ citations 
+ reasoning. 
+ 2.  The use shall be limited to 
+ grammar and readability. 
+ 3.  Every statement in the 
+ revised draft shall be 
+ checked thoroughly. 
+ 6  Use of AI to 
+ generate legal 
+ or technical 
+ citations 
+ May assist in 
+ identifying 
+ possible case 
+ law, scientific 
+ references, 
+ patent citations, 
+ or extracts from 
+ manuals 
+ Fabricated 
+ citations, wrong 
+ technical 
+ attribution. 
+ 1.  No citation suggested by AI 
+ shall be used unless 
+ independently verified in 
+ the original source. 
+ 2.  The officer shall check the 
+ exact passage, context, and 
+ source. 
+ 3.  Case law shall be verified 
+ from the actual judgment or 
+ an authentic law 
+ report/database. 
+ 4.  If independent verification is 
+ not feasible, the 
+ AI-generated citation shall 
+ be discarded. 
+ 7  Use of a public 
+ generative AI 
+ tool with 
+ unpublished 
+ patent 
+ application 
+ material 
+ This use is 
+ prohibited 
+ Disclosure of 
+ unpublished 
+ subject matter, 
+ internal 
+ comments, or 
+ sensitive official 
+ material outside 
+ the approved 
+ environment 
+ 1.  Only approved internal tools 
+ or secure authorised 
+ environments, if any, shall be 
+ used for such material. 
+ 2.  The officer shall ensure that 
+ no confidential or 
+ unpublished material is 
+ copied into an unapproved 
+ external system. 
+ 3.  Where doubt exists 
+ regarding permissibility, the 
+ material shall not be entered 
+ into the tool. 
+ 8  Use of AI for  May assist in  Prompt-sensitive  1.  AI  output  shall  be  treated 
+ 11  of 16 
+
+--- Page 12 ---
+ preliminary 
+ novelty or 
+ inventive-step 
+ analysis 
+ preliminary 
+ claim mapping, 
+ structured 
+ comparison, and 
+ internal 
+ organisation of 
+ analysis 
+ output, 
+ Tool-sensitive 
+ output, 
+ Inconsistent 
+ outputs, 
+ Profile-sensitive 
+ output, Missing 
+ distinguishing 
+ features, 
+ misreading prior 
+ art, hindsight, 
+ persuasive but 
+ unsound 
+ reasoning. 
+ only  as  a  preliminary 
+ assistive input. 
+ 2.  Each  mapped  feature  shall 
+ be  verified  from  the  actual 
+ prior-art  document, 
+ including  drawings  and 
+ contextual  disclosure  where 
+ necessary. 
+ 3.  Distinguishing  features, 
+ amendments,  and 
+ applicants'  submissions 
+ shall  be  examined 
+ independently. 
+ 4.  The  final  conclusion  on 
+ novelty  or  inventive  step 
+ shall  be  based  on  the 
+ officer’s  own  analysis  and 
+ application of mind. 
+ 9  Use of AI for 
+ quick 
+ identification of 
+ clarity issues in 
+ claims 
+ May assist in 
+ identifying 
+ possible 
+ ambiguity, 
+ indefiniteness, 
+ and drafting 
+ defects 
+ Overstatement of 
+ objections, legally 
+ unsound 
+ objections, or 
+ introduction of 
+ new ambiguity, 
+ application of 
+ standards from 
+ foreign 
+ jurisdictions 
+ which may differ 
+ from Indian 
+ benchmarks. 
+ 1.  AI  output  shall  be  used  only 
+ for  preliminary 
+ issue-spotting. 
+ 2.  The  claim  shall  be  compared 
+ manually  in  the  context  of 
+ the complete specification. 
+ 3.  The  officer  shall 
+ independently  determine 
+ whether  the  issue  truly 
+ arises  under  the  applicable 
+ statutory provision. 
+ 4.  Any  draft  objection 
+ suggested  by  AI  shall  be 
+ reformulated,  where 
+ necessary,  in  official  drafting 
+ style  followed  by  IPO  along 
+ with  relevant  statutory 
+ provisions. 
+ 5.  No  clarity  objection  shall  be 
+ issued  unless  the  officer  is 
+ 12  of 16 
+
+--- Page 13 ---
+ personally  satisfied  as  to  its 
+ legal and technical basis. 
+ 10  Use of AI for 
+ prior-art search 
+ using officially 
+ subscribed AI 
+ tools 
+ May improve 
+ search results 
+ with structured 
+ queries 
+ Query 
+ dependence, 
+ variation in 
+ retrieval quality 
+ and over-reliance 
+ on automated 
+ ranking 
+ 1.  The query shall be framed 
+ carefully and, where 
+ necessary, refined manually. 
+ 2.  Preparation of an adequate 
+ abstract before searching is 
+ important for proper search. 
+ 3.  Search results shall be 
+ assessed manually for 
+ relevance. 
+ 4.  Different query formulations 
+ may be tried where the 
+ initial search is inadequate. 
+ 5.  Retrieved documents shall 
+ be reviewed against the 
+ claims and the complete 
+ specification. 
+ 6.  The final search results shall 
+ be selected by the officer on 
+ the basis of independent 
+ judgment. 
+ 11  Use of AI for 
+ preliminary 
+ assessment of 
+ sufficiency of 
+ disclosure 
+ May assist in 
+ identifying 
+ possible gaps in 
+ enablement, or 
+ fair basis 
+ Over-reading, 
+ under-reading, 
+ false confidence, 
+ or sowing 
+ confusion in 
+ technically 
+ complex matters 
+ 1.  The complete specification, 
+ drawings, examples, and 
+ common general knowledge 
+ shall be examined manually. 
+ 2.  The officer shall 
+ independently assess 
+ whether the alleged gap is 
+ real, material, and relevant 
+ to the statutory 
+ requirement. 
+ 3.  Any final objection on 
+ sufficiency shall be framed 
+ only after independent 
+ technical and legal 
+ assessment. 
+ 13  of 16 
+
+--- Page 14 ---
+ 12  Use of AI for 
+ understanding 
+ case law and 
+ related legal or 
+ technical 
+ concepts 
+ May assist in 
+ summarising 
+ judgments or 
+ explaining 
+ technical/legal 
+ concepts for 
+ understanding 
+ Hallucinated 
+ quotations, 
+ fabricated 
+ paragraphs, 
+ misattributed 
+ reasoning, and 
+ incorrect 
+ extraction of legal 
+ principles 
+ 1.  AI may be used only for 
+ preliminary understanding 
+ or orientation. 
+ 2.  No verbatim quote, ratio, 
+ paragraph, or legal 
+ proposition generated by AI 
+ shall be relied upon without 
+ checking the primary 
+ source. 
+ 3.  The judgment shall be read 
+ in the context of the facts 
+ and circumstances of that 
+ case. 
+ 4.  The officer shall 
+ independently determine 
+ the relevance and 
+ applicability of the 
+ precedent to the present 
+ case. 
+ 5.  Where the AI output is 
+ found to contain fabricated, 
+ paraphrased, or 
+ misattributed material, it 
+ shall be discarded. 
+ 5.  Prohibited Uses 
+ The following uses are not permitted: 
+ (a)  Entering  unpublished  patent  application  contents,  confidential  office  records,  or 
+ internal deliberative material into public AI tools. 
+ (b)  Using  Artificial  Intelligence  as  a  substitute  for  the  Examiner’s  or  Controller’s  application 
+ of  mind  on  substantive  matters  including  novelty,  inventive  step,  industrial  applicability, 
+ sufficiency, clarity, or unity of invention. 
+ 14  of 16 
+
+--- Page 15 ---
+ (c)  Issuing  office  actions,  FERs,  hearing  notices,  decisions  or  other  official  communications 
+ solely on the basis of AI-generated output without adequate human oversight. 
+ (d)  Citing  case  law,  prior  art,  scientific  literature,  or  other  references  suggested  by  Artificial 
+ Intelligence without independent source verification from authentic sources. 
+ (e)  Using  AI-generated  content  in  official  communications  without  review,  correction,  and 
+ adoption by the concerned officer. 
+ (f)  Relying  solely  on  Artificial  Intelligence  for  decision-making  affecting  rights  of 
+ applicants/patentees  or  third  parties,  especially  in  arriving  at  conclusions  in  cases  where 
+ situations involve opposing parties, for instance, opposition proceedings. 
+ 6. Administrative Measures 
+ 1.  The  competent  authority  may  prescribe  that  material  use  of  Artificial  Intelligence  in 
+ specified  functions  shall  be  recorded.  Such  records  may  include  the  name  of  the  tool,  the 
+ nature  of  the  use,  the  date  of  use,  and  any  other  information  considered  necessary  for 
+ supervision,  audit,  or  quality  review.  The  disclosure  may  be  available  to  the  stakeholders 
+ to improve the confidence in the examination process. 
+ 2.  The  competent  authority  may  establish  a  dedicated  committee  for  governance  of  use  of 
+ Artificial Intelligence in Patent Office functions. Such committee may be entrusted with: 
+ a.  review and approval of tools; 
+ b.  categorisation of uses into permitted and prohibited classes; 
+ c.  prescription of safeguards and approval conditions; 
+ d.  pilot studies on the use of AI in the examination process; 
+ e.  review of quality, errors, complaints, or policy breaches; 
+ f.  periodic revision of these Guidelines; and 
+ g.  holding  consultations  with  relevant  stakeholders  and  AI  experts  possessing 
+ demonstrable  technical  expertise  in  machine  learning,  natural  language  processing,  or 
+ large language model systems  . 
+ The  AI  Governance  Committee  of  the  O/o  CGPDTM  shall  comprise  examiner(s)  and 
+ controller(s)  from  the  Examination  Division  of  the  Patent  Office,  officer(s)  from  the  IT  Office 
+ and  from  the  QMS  Division.  The  officers  shall  be  nominated  so  as  to  cover  the  different 
+ technology groups in the patent office. 
+ 15  of 16 
+
+--- Page 16 ---
+ 3.  The  competent  authority  may  take  steps  for  training  and  capacity  building  of  officers  to 
+ cover: 
+ a.  functionalities and limitations of Artificial Intelligence; 
+ b.  confidentiality risks and prompt discipline; 
+ c.  verification of AI-assisted outputs; 
+ d.  responsible use in public service; 
+ e.  identification of hallucinations, unsupported claims, and fabricated citations; 
+ f.  permitted and prohibited uses under these Guidelines. 
+ 4.  Where  appropriate,  the  competent  authority  may  also  provide  for  independent  audit, 
+ impact assessment, feedback mechanisms, and incident reporting systems. 
+ Annexure-I:  A  non-exhaustive  list  of  Illustrative  Examples  of  Use  of  Artificial 
+ Intelligence in Patent Examination 
+ Annexure-II:  Checklist  and declaration 
+ 16  of 16 
+
+--- Page 17 ---
+ 
+ 
+ 
+ 
+Annexure-I of Guidelines for the Use of  
+Artificial Intelligence  
+in Patent Examination Procedure 
+ 
+ 
+Note: These illustrative examples are not intended to offer guidance on prompt engineering techniques or best practices for 
+the use of AI tools, nor to give advice on training AI models for specific tasks. Users may adopt any suitable prompts of their 
+choice, in line with the safeguards specified in the AI Guidelines. 
+Page 1 of 34 
+ 
+
+--- Page 18 ---
+Illustrative Examples of Use of Artificial Intelligence in Patent Examination 
+1.1 Use of AI for identifying candidate IPC classifications 
+AI is a useful tool to identify classification codes relevant for an invention. But human oversight remains necessary while using 
+AI for arriving at reasoned and final classification. This can be illustrated with the following examples: 
+Example 1: Variability observed in AI-assisted patent classification when different models, prompts, and conditioning 
+parameters are employed for 2 patent applications (Classifications shown in red are irrelevant classifications.) 
+Page 2 of 34 
+ 
+ 1 2 3 4 5 6 7 8 9 10 11 
+ AI tool -A AI tool -B AI tool -C 
+(relevance) 
+AI tool C 
+(Count) AI tool D (IPC) AI tool E 
+(highest mode) 
+AI tool F 
+(Specific 
+Prompt) 
+AI Tool F AI Tool G Manual CPC Manual IPC 
+Prompt Independent 
+claim added in 
+the AI based 
+search box and 
+CPC results are 
+retrieved 
+Independent 
+claim AI 
+based search 
+box and the 
+IPC results 
+are retrieved 
+Independent 
+claim is added 
+in the Concept 
+search (AI 
+based search) 
+and the IPC and 
+CPC full codes 
+were retrieved 
+from the 
+HD-Analyze and 
+sorted by 
+relevance. 
+Independent 
+claim is added 
+in the Concept 
+search (AI 
+based search) 
+and the IPC and 
+CPC full codes 
+were retrieved 
+from the 
+HD-Analyze and 
+sorted by count. 
+Independent 
+claim is added 
+in the AI search 
+and the IPC - 
+current and 
+CPC- current 
+were retrieved 
+from the 
+Analyze records. 
+Find the 
+appropriate IPC 
+Classification 
+for the text 
+provided below; 
+(Independent 
+Claim 1 is given 
+as text) 
+All IPC sections 
+are uploaded to 
+AI TOOL1 in 
+PDF format, 
+along with the 
+commands 
+specified in Cell 
+R1, before 
+submitting the 
+claim text. 
+(Refer Cell R1 
+for the prompt) 
+Find the 
+appropriate IPC 
+Classification 
+for the text 
+provided below; 
+(Independent 
+Claim 1 is given 
+as text) 
+Independent 
+claim is added 
+and asked to 
+find the relevent 
+IPC and CPC 
+  
+Claim 1 of 
+20261100XXXX 
+B64U60/50 
+B64D1/18 
+B64U30/20 
+B64U10/20 
+B64U101/45 
+B64C 1/14 
+B64D 1/18 
+B64D 27/24 
+A01M 1/20 
+A01M 29/10 
+B64U10/13 
+B64D1/18 
+B09B3/30 
+A01C1/06 
+A61L2/26 
+B64D1/18 
+B01L3/502715 
+A01M7/0089 
+E04G21/02 
+A01G31/02 
+B64D1/18 
+A01M7/00 
+B64U101/45 
+B64C39/02 
+B64C27/08 
+B64U101/30 
+B64D1/18 
+B64U10/14 
+A01M7/00 
+A01C23/00 
+B64U20/50 
+B64U30/20 
+B64U50/19 
+B64U50/30 
+B64U60/50 
+C12M1/00 
+B01F33/00 
+B05B1/34 
+G05D1/10 
+G06V20/10 
+A01M 7/00 
+B64U 10/14 
+B64U 20/87 
+B64U 50/37 
+B64C 39/02 
+A01N 63/00 
+B65D 81/32 
+G06V 20/10 
+G05D 1/10 
+G01S 19/42 
+*mixed CPCs and 
+IPCs in the IPC; 
+Those CPCs are 
+not mentioned 
+here 
+A01G25/00 
+B64C39/02 
+A01N63/02 
+A01M7/00 
+B64C27/00 
+A01G25/06 
+B64U 2101/45 
+B64U 10/14 
+A01M 7/00 
+B64D 1/16 
+B64U 2101/40 
+G06T 7/00 
+G05D 1/00 
+A01C 23/00 
+B64U30/293 
+B64U10/14 
+B64U50/19 
+B64U2101/45 
+A01M7/0085 
+C05F11/08 
+B64D1/18 
+B05B1/02 
+B64U50/30 
+B64D27/357 
+A01M7/0089 
+G06T2207/200
+84 
+B64U30/293 
+B64U10/14 
+B64U50/19 
+B64U101/45 
+A01M7/00 
+C05F11/08 
+B64D1/18 
+B05B1/02 
+B64U50/30 
+B64D27/357 
+Claim 1 of 
+20264103XXXX 
+B01F23/2375 
+B01F25/4521 
+B01F33/053 
+B01F23/2323 
+C02F1/28 
+C02F1/44 
+C02F1/52 
+B01J20/28 
+B01J20/20 
+B01F23/232 
+B01F23/23 
+B01F23/2375 
+B01F23/231 
+B01F23/23123 
+B01F13/1013 
+Y02W10/10 
+B01F23/20 
+B01F23/232 
+B01F23/2323 
+Y02W10/10 
+B01F23/20 
+B01F23/23 
+Y10S261/75 
+B01F23/2323 
+B01F23/20 
+B01F33/81 
+B01F25/10 
+B01F25/431 
+B01F25/44 
+B01F25/462 
+B01F25/45 
+B01F25/432 
+B01F33/40 
+B01F35/12 
+B01F23/232 
+B01F23/237 
+B01J19/00 
+B01F3/06 
+B01F13/02 
+B01F7/00 
+B01F 23/23 
+B01F 25/30 
+B01F 25/40 
+B01F 25/312 
+B01F 23/2375 
+B01F23/2375 
+B01F23/2323 
+B01F25/10 
+B01F25/4314 
+B01F25/312 
+B01F23/2375 
+B01F23/232 
+B01F25/10 
+B01F25/4314 
+B01F25/312 
+
+--- Page 19 ---
+The above table provides a consolidated comparison of IPC/CPC classifications generated by various AI tools (Columns 1-6, 8, 
+and 9) with the manually assigned classifications (Columns 10 and 11) for two patent applications. The prompt used for all AI 
+tools was: “Find the appropriate IPC Classification for the text provided below, (followed by the text of Independent Claim 1)”. 
+To further refine the classifications, a set of conditions (1-31), as detailed below, was provided to AI Tool 1. However, the 
+classifications assigned (Column 7) by the tool still included erroneous classifications. 
+[Conditions given:  1. Always analyse ALL claims critically, not selectively. 2. Classification must be strictly CLAIM-DRIVEN. Do 
+not classify based on title, abstract, background, or examples. 3. Multiple IPC and CPC codes are allowed wherever genuinely 
+applicable. 4. IPC codes must be taken ONLY from official IPC lists. 5. CPC codes must be taken ONLY from official CPC scheme 
+lists. 6. IPC and CPC must NEVER be cross-used: - CPC subgroups must not be shown as IPC. - IPC codes must remain at valid 
+IPC hierarchy levels. 7. Before giving any code, ALWAYS cross-check that the code exists in the respective IPC or CPC scheme. 8. 
+If a code exists only in CPC, keep it ONLY in CPC. 9. Do not invent, modify, or assume any IPC or CPC code. 10. Use only those 
+codes that are truly necessary and supported by claims. 11. Avoid over-classification and speculative classification. 12. Exclude 
+any code that is: - Only descriptive - Only contextual - Based on application field instead of claimed structure/function 13. 
+Prefer dominant technical fields over auxiliary features. 14. Distinguish between: - Core invention - Auxiliary or supporting 
+features 15. Always justify why each code is selected. 16. Always justify why other possible codes are excluded. 17. Use 
+examiner-style, neutral, technical reasoning. 18. Provide results strictly in tables. 19. Tables must include: - Title of document - 
+IPC codes (comma separated) - CPC codes (comma separated) - Examination Department from Annexure IPC - Department 
+from Google using IPC 20. Provide a second table mapping: - Claim numbers - Core feature - Technical aspect - IPC code(s) - 
+CPC code(s) - Short justification 21. Keep explanations concise and technical. 22. Do not use shortcuts, assumptions, or 
+convenience codes. 23. Always perform a fresh analysis. 24. Do not reuse earlier conclusions. 25. Always cross-check against 
+today's official scheme structure. 26. IPC classification must follow the principle: "Classify what is claimed, not what it is used 
+for." 27. CPC classification must only refine IPC, not contradict it. 28. When errors are identified (e.g., wrong code, non-existent 
+IPC), discard and redo analysis from scratch. 29. Do not mix mechanical, electrical, civil, or software domains unless claims 
+clearly justify multiple domains. 30. Always maintain examiner-safe discipline. 31. Always keep the output suitable for FER / 
+office examination use. save this for future reference and analysis.] 
+The example indicates that AI-assisted classification is AI model/prompt/conditions -sensitive.Depending on the model used, 
+the generated classification may either remain closer to the human assigned classification or move towards broader and or 
+irrelevant classifications.Therefore human oversight is invariably essential. 
+Page 3 of 34 
+ 
+
+--- Page 20 ---
+Example 2: 
+ 
+S. No Application 
+number 
+Gen AI model 
+1 (free version) 
+Gen AI model 
+2 (free version) 
+Gen AI model 
+3 (free version) 
+IPC assigned manually by 
+Classification team 
+1 20251110XXXX C22B 19/32 
+C22B 1/00 
+C22C 1/02 
+C22B 19/30 
+C22B 7/00 
+C23G 1/02 
+B22D 21/00 
+C22B 9/16 
+C23F 13/14 
+C22B 7/00  
+C22B 19/30 
+C22B 19/28  
+B22D 25/00  
+B22D 11/00 
+C23G 1/00  
+C23G 1/08 
+C22B19/30 
+C22B7/00 
+C22B3/04 
+B22D21/02 
+2 20254110XXXX Primary: 
+B82Y 30/00 C01G 
+49/06 
+C01B 32/184 
+C01B 32/158 
+Secondary: 
+B01J 13/00 
+B01J 23/745 
+B01J 19/08 
+B03C 1/00 
+ 
+Primary: 
+B82Y 30/00 
+C01G 49/08 
+C01B 32/15 
+H01F 1/00 
+Secondary: 
+C01B 32/198 
+B82Y 40/00 
+C01B 32/194 
+B01J 13/00 
+B03C 1/0 
+Primary: C01G 49/08 or 
+C01G 49/00  
+Secondary: 
+C01B 32/182 
+C01B 32/158 C01B 32/168 
+B82Y 30/00 B82Y 40/00 
+H01F 1/44 
+ 
+B82Y30/00 
+C01G49/08 
+H01F41/30 
+B82Y40/00 
+C01B32/15 
+3 20252102XXXX Primary: 
+C02F 3/02 
+C02F 1/44 
+C02F 1/52 
+Secondary: 
+B01D 24/00 
+B01D 35/02 
+C02F 3/20 
+ 
+ 
+Primary: 
+C02F 3/04 
+B01D 24/14 
+C02F 9/00 
+Secondary: C02F 3/20 
+B01D 24/46 
+C02F 1/00 
+B01D 24/10 
+C02F 103/00 
+Primary: 
+C02F 3/02 
+Secondary:  
+C02F 3/06 or C02F 3/10 
+C02F 1/00 
+C02F 1/001 
+C02F 1/74 
+B01D 24/00 
+ 
+C02F1/006 
+C02F1/74 
+C02F1/001 
+B01D2101/04 
+B01D21/0033 
+ 
+ 
+Page 4 of 34 
+ 
+
+--- Page 21 ---
+❖ The comparison indicates that the IPC suggestions are model-sensitive, both in terms of the number of symbols 
+suggested and the technical direction reflected in such suggestions. It also indicates a certain degree of inconsistency 
+across the models for the same application. 
+❖ The IPC suggestions generated by the GenAI models are, in some cases, close to the IPCs assigned manually by the 
+Classification Team, but they are not identical. 
+❖ Though based on a limited sample, the comparison indicates that human judgment continues to remain necessary in 
+each case. This is because final classification requires a considered reading of the claims and specification, identification 
+of the most appropriate technical focus of the invention.  
+❖ Where the suggested classification lacks precision, if relied upon without human oversight, it can potentially affect the 
+quality of search and examination since it may either broaden the search unnecessarily or divert it towards a different 
+technical direction.  
+ 
+Page 5 of 34 
+ 
+
+
+--- Page 22 ---
+1.2. Use of AI for generating search terms and concept clusters 
+An Examiner may use AI to generate synonyms, abbreviations, related technical expressions, alternative spellings, and concept 
+clusters for a claimed invention. This helps in broadening a search by identifying related technical expressions, synonyms, 
+variant terminologies and closely connected concepts around the claimed subject matter. This can be useful as often the 
+terminology varies across patent literature, standards, academic writing, or foreign-language material. 
+The benefit is obvious. AI may widen the officer’s search vocabulary and help identify related terminology more quickly. This 
+supports efficiency and search completeness. 
+But AI may also make mistakes here. It may suggest terms that are technically adjacent but legally irrelevant. It may 
+over-broaden the search by mixing different technologies under a superficial common label. It may also over-narrow the 
+search by assuming that one term is equivalent to another when the claim language is more specific. In a chemical, 
+pharmaceutical, or materials case, one wrong synonym may introduce large amounts of irrelevant art or, worse, exclude 
+relevant prior art. 
+The safeguard is that AI-generated search terms should only be a starting aid. The Examiner must construct the final search 
+strategy. The officer must test and refine the terms using the claim language, the specification, classification symbols, and the 
+actual search results.  
+The following illustrates the use of Artificial Intelligence in the generation of search vocabulary 
+Example 1 
+Illustrative claim 
+A water treatment composition for removal of arsenic from contaminated water, the composition comprising activated carbon 
+supporting magnetic iron oxide nanoparticles, wherein the magnetic iron oxide nanoparticles have an average particle size of 
+10 nm to 30 nm, and wherein the composition is adapted to adsorb arsenic species present in the contaminated water. 
+Page 6 of 34 
+ 
+
+--- Page 23 ---
+Purpose of the exercise 
+The purpose of this exercise was to examine whether GenAI models may assist an Examiner in generating an initial search 
+vocabulary for prior-art search, and to observe the extent to which different models converge or diverge in the search terms 
+suggested for the same claim. 
+Prompt given to the GenAI models 
+The GenAI models were asked to generate search terminology on the basis of the above claim under the following broad heads: 
+● core search terms; 
+● near synonyms; 
+● related technical expressions; 
+● broader exploratory terms; and 
+● terms to avoid (because they may misdirect the search.) 
+The output by two tools is tabulated below: 
+ 
+S. No Heads GenAI 1 GenAI 2 
+1 
+core search terms 
+Arsenic removal / arsenic adsorption 
+Water treatment composition 
+Activated carbon supported nanoparticles 
+Magnetic iron oxide nanoparticles 
+Fe₃O₄ nanoparticles / magnetite nanoparticles 
+Arsenic adsorbent material 
+Nanoparticle-based water purification 
+Magnetic adsorbent for arsenic 
+Arsenic-contaminated water treatment 
+Activated carbon (or AC, GAC, PAC) 
+Magnetic iron oxide nanoparticles 
+Arsenic removal (or Arsenic 
+adsorption) 
+Composite adsorbent 
+Superparamagnetic 
+ 
+Page 7 of 34 
+ 
+
+--- Page 24 ---
+2 
+near synonyms 
+Arsenic remediation / arsenic decontamination 
+Arsenic sorption / arsenic uptake 
+Carbon-supported iron oxide nanoparticles 
+Iron oxide nanocomposites 
+Magnetite / maghemite nanoparticles 
+Magnetic nanoadsorbents 
+Carbon-based adsorbents 
+Nano-adsorbent systems 
+Hybrid adsorbent materials 
+Supported nanomaterials for water purification 
+Iron oxide: Magnetite (Fe3O4), 
+Maghemite gamma-Fe2O3), Ferrite. 
+Activated carbon: Charcoal, activated 
+coal, biochar (if applicable), 
+carbonaceous support. 
+Nanoparticles: Nanocrystals, 
+nanopowders, nanostructures, 
+sub-micron particles. 
+Adsorb: Scavenge, sequester, capture, 
+remediate. 
+ 
+3 
+related technical 
+expressions 
+Surface functionalized activated carbon 
+Nanocomposite adsorbents 
+Magnetic separation of adsorbents 
+Adsorption isotherms (Langmuir, Freundlich) 
+Arsenite (As³⁺) / arsenate (As⁵⁺) removal 
+Co-precipitation synthesis of iron oxide 
+nanoparticles 
+Impregnation of activated carbon 
+Surface area enhancement / porosity 
+pH-dependent adsorption behavior 
+Regeneration of adsorbents 
+Superparamagnetic nanoparticles 
+Solid-liquid separation using magnetic field 
+Surface functionalization 
+In-situ precipitation (a common 
+method for loading iron onto carbon) 
+Hybrid sorbent 
+Magnetic separation (the functional 
+benefit of the magnetic particles) 
+As(III) and As(V) oxidation/adsorption 
+Pore impregnation 
+ 
+4 
+broader exploratory 
+terms 
+Heavy metal removal from water 
+Groundwater purification technologies 
+Nanotechnology in water treatment 
+Adsorption-based filtration systems 
+Environmental remediation materials 
+Water purification nanomaterials 
+Heavy metal remediation 
+Metal oxide-carbon hybrids 
+Point-of-use (POU) water treatment 
+Magnetic nanocomposites 
+Environmental nanotechnology 
+ 
+Page 8 of 34 
+ 
+
+--- Page 25 ---
+Metal oxide nanoparticles for wastewater 
+treatment 
+Biochar-supported nanoparticles 
+Composite filtration media 
+Drinking water purification systems 
+Industrial wastewater treatment 
+5 
+terms to avoid 
+Reverse osmosis (membrane-focused, not 
+adsorption-specific) 
+Distillation / desalination (different 
+mechanisms) 
+UV disinfection / chlorination (biological, not 
+arsenic adsorption) 
+Organic contaminant removal (e.g., dyes, 
+pesticides unless combined with arsenic) 
+Polymer-only adsorbents (without nanoparticles 
+or carbon support) 
+Non-magnetic adsorbents (unless used for 
+comparison) 
+Large bulk iron oxide materials (non-nano scale) 
+Air purification or gas adsorption 
+Soil remediation (unless specifically 
+water-linked) 
+ 
+Filtering" or "Filtration" 
+"Iron filings"  
+"Carbon nanotubes" (CNTs) "Chelation" 
+"Iron ore" 
+ 
+Comparative observations 
+This exercise indicates that both GenAI models were able to identify the principal technical elements of the claim, namely 
+activated carbon, magnetic iron oxide nanoparticles, arsenic removal from water, and adsorption-based treatment. At the same 
+time, the models differed in the breadth, structure, and technical direction of the terms suggested. 
+Page 9 of 34 
+ 
+
+--- Page 26 ---
+The exercise therefore indicates that AI-generated search vocabulary is model-sensitive, both in terms of the number of terms 
+suggested and the extent to which the output expands into adjacent technical areas. Depending on the model used, the 
+generated vocabulary may either remain closer to the immediate claim language or move towards broader and neighbouring 
+technical domains. 
+The exercise indicates that GenAI may assist in generating an initial search vocabulary, but the final search strategy still 
+requires human judgment. This is because the Examiner must determine: 
+● which terms remain sufficiently close to the claimed subject matter; 
+● which expressions are technically adjacent but legally or functionally different; 
+● which broader terms may be used selectively for exploratory search; and 
+● which terms may introduce large amounts of irrelevant prior art or move the search into neighbouring but non-relevant 
+technical areas. 
+In the present example, the AI outputs were useful in identifying the central search concepts and certain alternative technical 
+expressions. At the same time, some of the broader expressions, if used without control, could widen the search beyond the 
+claimed combination of activated carbon + magnetic iron oxide nanoparticles + arsenic adsorption from water. Human 
+oversight therefore remains necessary to convert AI-generated vocabulary into a reasoned and targeted search strategy. 
+ 
+Page 10 of 34 
+ 
+
+--- Page 27 ---
+ 
+Page 11 of 34 
+ 
+
+
+--- Page 28 ---
+1.3. Use of AI for preliminary claim-feature extraction 
+An Examiner/Controller may use AI to break an independent claim into separate features or claim elements for convenience. 
+This may help in preparing internal notes or a comparison chart. 
+The benefit is that AI can quickly convert long claims into a structured list and may therefore help the Examiner organise the 
+analysis. This can be useful in complex mechanical, telecom, software, or biotechnology claims. 
+The danger is that AI may split the claim incorrectly. It may separate features that legally belong together. It may ignore 
+relational phrases such as “configured to,” “in response to,” “wherein,” or “such that.” It may also miss negative limitations, 
+numerical ranges, functional dependencies, or optional and mandatory elements. In patent examination, such errors are 
+serious, because a wrong claim breakdown can distort novelty and inventive step analysis from the very beginning. 
+The safeguard is that any AI-generated feature list should be treated only as a rough internal draft. The Officer must revise it 
+personally before it is used for any comparison exercise. The status of this use may therefore be treated as restricted, because 
+it may materially influence later reasoning if left unchecked. 
+1.4. Use of AI for translation support 
+An Examiner/ Controller may use AI to obtain a rough understanding of a foreign-language document, especially for early 
+search screening or internal orientation. 
+The benefit is that the officer may quickly understand whether a Japanese, Chinese, Korean, German, or other foreign-language 
+document is likely to be relevant. This may improve the speed of search review and reduce dependence on slower manual 
+routes for initial screening. The risk, however, is that AI translation may miss technical nuance. A word that means “coupled,” 
+“bonded,” “attached,” “linked,” or “mounted” may not be interchangeable in an engineering context. The safeguard is that AI 
+translation may be used for rough understanding, but any passage relied upon for a formal objection should be checked from a 
+reliable source like drawings  related to the invention. It shall be mentioned clearly in the reasoning on patentability that a 
+machine translation of the citation was relied upon. 
+Page 12 of 34 
+ 
+
+--- Page 29 ---
+1.5. Use of AI for improving the structure or language of a draft office communication 
+AI tools are found to have the potential to improve coherence, grammar, remove repetition or contradictions, reorganise 
+headings, or convert raw notes into a cleaner draft. The tools can assist in summarization of lengthy documents for internal 
+reading convenience.  
+The benefit is better presentation, readability, and concise expression. In principle, this may help improve consistency in office 
+writing and reduce purely clerical effort. The danger arises when the system moves beyond such support and begins 
+generating reasoning. It may insert statements not found in the record, overstate the scope of a prior-art document, weaken 
+the logic of an objection, or omit the officer’s actual reasoning chain. It may also produce language that sounds correct but is 
+legally imprecise. An even more serious risk is the inclusion of non-existent  citations or  case references, or unsupported 
+propositions. 
+The safeguard is that AI may be used to improve language or structure of a draft already prepared by the officer, but not to 
+replace the officer’s own reasoning. No official communication should be issued unless the officer has personally checked 
+every substantive statement. Any AI-assisted technical summary shall be checked against the actual record.Language support 
+may therefore be permitted for formatting and language refinement, but restricted for substantive reasoning. 
+GenAI outputs generally suggest further ways in which the AI tool can support and also some introductory lines from the AI 
+tool. While adopting AI generated language, care may be taken to avoid such casual inputs as this could adversely affect the 
+credibility of the official communication even when the substantive report is correct and human endorsed. Examples are “Here 
+are a few ways to reword your communication, depending on the tone you want to set:” or “Would you like me to adjust the tone to 
+be even more formal, or perhaps focus more on the "novelty" aspect in this case?” 
+Page 13 of 34 
+ 
+
+--- Page 30 ---
+ 
+Page 14 of 34 
+ 
+
+
+--- Page 31 ---
+1.6. Use of AI to retrieve legal or technical citations 
+An officer may seek to use  AI for case law, scientific references, patent citations, or excerpts from manuals relevant to a 
+particular objection. The apparent advantage of such use lies in  convenience,as the system may generate well-presented  
+output.  However, such output may not be dependable. AI may fabricate citations, confuse one judgment with another, 
+misdescribe the ratio, or attribute technical findings to a source that never made them. In a patent examination setting, use of a 
+fabricated or wrongly described authority can directly affect the credibility and defensibility of the office action. 
+The safeguard is independent verification of source /output with utmost care. No citation  suggested by AI should be used 
+unless it is independently verified and checked in the actual source. 
+1.7. Use of a public generative AI tool with unpublished patent application material 
+An officer shall not copy the claims, description, prior-art note, hearing note or unpublished document into a public AI tool to 
+obtain a summary, chart, or draft. The Indian government policy repeatedly emphasises data protection and confidentiality. 
+Use of a public generative AI tool with unpublished patent application  creates a risk that unpublished subject matter, internal 
+comments, or other sensitive official material may move outside the approved environment. In the patent context, that would 
+amount to a serious institutional/stakeholder risk. The status of this use should therefore be treated as prohibited. 
+Page 15 of 34 
+ 
+
+--- Page 32 ---
+ 
+Page 16 of 34 
+ 
+
+
+--- Page 33 ---
+1.8. Use of AI tools for preliminary novelty or inventive step analysis 
+Use of Artificial Intelligence for the generation of novelty objections, inventive step objections, or hearing notices on the basis 
+of the claims and cited documents shall be done with careful precautions only. The system may fail to identify a distinguishing 
+feature, misread the cited document, combine separate teachings impermissibly, apply hindsight, or generate reasoning that 
+appears persuasive in language but is technically unsound. It may also fail to deal fairly and accurately with the submissions 
+made by the applicant. More importantly, such use may weaken the independent application of mind required of the Examiner 
+or Controller. The Indian policy framework likewise emphasises human oversight, documentation, and risk-based safeguards 
+where rights are involved. The use of AI tools for novelty/inventive step analysis is to be done with caution as the detailed 
+one-to-one claim mapping necessary for novelty analysis, which requires careful consideration of explicit and implicit 
+disclosures along with drawings and contextual information, makes the process particularly challenging; and prone to huge 
+amount of errors and significant omissions.  
+Example 1: 
+Claim 1: A laparoscopic needle holder comprising: a tubular shaft, the shaft having a straight proximal shaft section and a 
+curved distal shaft section; clamping jaws disposed at a distal end of the shaft; a handle disposed at a proximal end of the shaft; 
+and a rod that passes through a center of the shaft, the rod capable of being longitudinally displaced by the handle to actuate 
+the clamping jaws, wherein the straight proximal shaft section and the curved distal shaft section are detachably attached to 
+one another. 
+Prior Art D1: A suturing device for use with a suturing needle, the device comprising: a body having a proximal end and a distal 
+end, the body having an elongate extension extending along an axis toward the distal end, the extension configured to define a 
+bend in the axis; a first clamp near the distal end of the body; a linkage effecting a movement of the first clamp between a 
+grasping configuration and a released configuration, the first clamp configured for grasping the needle in the grasping 
+configuration and the needle being released in the released configuration, the linkage comprising a shaft movable along the 
+axis within the extension so as to effect the movement of the first clamp, the shaft having axial stiffness and being laterally 
+flexible so as to transmit the movement and accommodate the bend. 
+Page 17 of 34 
+ 
+
+--- Page 34 ---
+Prompt : Compare Claim 1 with Prior Art D1 and explain whether Claim 1 lacks novelty. Focus on whether D1 already 
+discloses the same overall laparoscopic needle holder structure, including a shaft/body with straight and curved portions, 
+distal clamping jaws, proximal actuation, and an internal rod/linkage for actuating the jaws. Treat the proximal and distal shaft 
+portions in D1 as parts of the same attached instrument structure. Give the conclusion in paragraph form. 
+Gen AI response 1:  
+“Claim 1 lacks novelty over D1, as D1 already discloses a needle holding/suturing device having a shaft/body with proximal and 
+distal portions, the distal portion being bent, a distal clamp for holding the needle, and an inner shaft/linkage movable 
+longitudinally within the bent extension to actuate the clamp. Thus, D1 teaches the claimed tubular shaft having a straight 
+proximal section and a curved distal section, clamping jaws at the distal end, a proximal actuation handle arrangement, and a rod 
+passing through the shaft to actuate the jaws. The proximal and distal shaft portions in D1 are parts of the same instrument 
+structure attached to one another, and therefore the claim does not define any feature that is novel over D1. Hence, claim 1 is not 
+novel.” 
+Prompt: Compare Claim 1 with Prior Art D1 and explain whether Claim 1 is novel. Focus particularly on the feature that the 
+straight proximal shaft section and the curved distal shaft section are detachably attached to one another. Assess whether D1 
+clearly and directly discloses this detachable attachment feature. If D1 only discloses a bent extension or continuous body and 
+not detachable shaft sections, explain why Claim 1 remains novel. Give the conclusion in paragraph form. 
+Gen AI response 2:  
+“Claim 1 is novel over D1. While D1 discloses a suturing device having an elongate body with a bent distal portion, a distal clamp, 
+and a shaft/linkage movable along the axis to actuate the clamp, D1 does not disclose the specific construction now claimed, 
+namely, a tubular shaft having a straight proximal shaft section and a curved distal shaft section, wherein the straight proximal 
+shaft section and the curved distal shaft section are detachably attached to one another. The cited prior art merely teaches an 
+extension configured to define a bend, but does not teach or suggest that the proximal and distal shaft sections are formed as 
+separate detachable components. Since this distinguishing structural feature is absent in D1, all the features of claim 1 are not 
+disclosed therein, and therefore claim 1 satisfies the requirement of novelty.” 
+Page 18 of 34 
+ 
+
+--- Page 35 ---
+Note: AI responses may not always be consistent or reproducible. 
+In the present example, both responses appear, prima facie, to be fluent and persuasive. The difference between them appears 
+to lie in the treatment of the detachable attachment feature. This illustrates the need for independent human scrutiny. All AI 
+outputs must be critically reviewed and validated by a qualified human professional using primary sources. Due diligence is 
+mandatory.  
+ 
+Page 19 of 34 
+ 
+
+
+--- Page 36 ---
+At the same time, AI may still be useful at the preliminary stage in identifying possible claim-to-prior-art mapping and in 
+organising the comparison in a structured manner. Such mapping, however, can only be treated as an assistive input. It remains 
+for the Examiner or Controller to verify each mapped feature from the actual prior-art document, assess whether the 
+correspondence is technically and legally correct, and arrive at an independent conclusion on novelty. 
+Illustrative feature mapping of Claim 1 against D1 using AI 
+AI tool is used to map the technical features of claim 1 with prior art. 
+Prompt: Map the technical features of claim 1 with prior art. Columns 1, 2 and 3 are generated by an AI tool. 
+S. No Feature of Claim 1 as per AI Mapping with D1 as 
+per AI 
+Human judgement 
+1 A laparoscopic needle 
+holder 
+A suturing device 
+for use with a 
+suturing needle 
+Broad functional correspondence is mapped 
+by the AI, but exact identity of the instrument 
+type still requires examination 
+2 A tubular shaft 
+ 
+A body having an 
+elongate extension 
+extending along an 
+axis toward the 
+distal end 
+D1 discloses an elongate body/extension, but 
+whether this is a “tubular shaft” in the claimed 
+sense requires verification. 
+3 The shaft having a 
+straight proximal shaft 
+section and a curved 
+distal shaft section 
+ 
+The body has a 
+proximal end and a 
+distal end, and the 
+elongate extension 
+is configured to 
+define a bend in the 
+D1 appears to disclose a proximal portion and 
+a bent distal extension. However, whether this 
+corresponds to a “straight proximal shaft 
+section” and a “curved distal shaft section” as 
+distinct claim features, requires careful 
+assessment. 
+Page 20 of 34 
+ 
+
+--- Page 37 ---
+axis. 
+ 
+ 
+4 Clamping jaws 
+disposed at a distal end 
+of the shaft 
+ 
+A first clamp near 
+the distal end of the 
+body, configured for 
+grasping the needle 
+This appears to be a reasonably close 
+mapping at a broad level. 
+ 
+5 A handle disposed at a 
+proximal end of the 
+shaft 
+ 
+Not clearly set out in 
+the extracted 
+passage. 
+Needs verification 
+6 A rod that passes 
+through a center of the 
+shaft, the rod capable 
+of being longitudinally 
+displaced by the handle 
+to actuate the clamping 
+jaws 
+ 
+A linkage 
+comprising a shaft 
+movable along the 
+axis within the 
+extension so as to 
+effect movement of 
+the first clamp 
+D1 appears to disclose an internal movable 
+shaft/linkage for actuation. Whether it is a 
+“rod passing through the center of the shaft” 
+in the claimed sense would require closer 
+verification. 
+ 
+7 The straight proximal 
+shaft section and the 
+curved distal shaft 
+section are detachably 
+attached to one 
+another 
+ 
+No explicit 
+disclosure in the 
+quoted passage. 
+ 
+Needs verification 
+Page 21 of 34 
+ 
+
+--- Page 38 ---
+1.9. Use of AI for quick identification of clarity issues in claims 
+Example 1: 
+Consider you have uploaded the following claim into an AI (assisted) tool: 
+“A composition comprising: (a) rutin; and (b) wedelolactone, wherein weight percentage of rutin and wedelolactone in said 
+composition is in the range of 0.03-0.57%, and rutin to wedelolactone w/w ratio in said composition is in the range of 1:1-1:9.” 
+Prompt-1: identify clarity issues as per section 10(4) of the Act for the claim. 
+Response of AI tool:   
+“Claim 1 defines: weight percentage of rutin and wedelolactone as “0.03–0.57%” ratio as “1:1–1:9” However, it is unclear 
+whether: the percentage refers to each component individually, combined concentration of both components, or percentage 
+with respect to total composition weight”.  
+AI Flag: “Ambiguous quantitative limitation detected.” 
+Prompt-2: draft in a FER style. 
+Response of AI tool:  
+“[Suggested FER Language : The claims lack clarity under Section 10(4) of the Act as the expression “weight percentage of 
+rutin and wedelolactone in said composition is in the range of 0.03-0.57%” fails to clearly define whether the stated 
+percentage relates to each individual component or the combined amount of both components in the composition.]” 
+Prompt-3: consider it is combined weight percentage of rutin and wedelolactone in the composition. 
+ 
+ 
+Page 22 of 34 
+ 
+
+--- Page 39 ---
+Response of AI tool:  
+“[In that case, the ambiguity objection may be modified as follows: The claims lack clarity under Section 10(4) of the Act as the 
+expression “weight percentage of rutin and wedelolactone in said composition is in the range of 0.03–0.57%” does not clearly 
+specify the individual amount or concentration range attributable to each component within the claimed composition, thereby 
+rendering the scope of the claim unclear. 
+Or more mildly: 
+Although the claims indicate that the stated percentage refers to the combined amount of rutin and wedelolactone in the 
+composition, the individual quantitative contribution of each component remains unclear in view of the broad ratio range of 
+1:1–1:9, thereby affecting clarity and definiteness under Section 10(4) of the Act.]” 
+Prompt-4: claim doesn't mention what constitutes the remaining 99.43-99.97% in the composition. include this observation 
+Response of AI tool:  
+“[The claims lack clarity under Section 10(4) of the Act as claim 1 merely defines that the combined weight percentage of rutin 
+and wedelolactone in the composition is in the range of 0.03–0.57%, without clearly specifying the nature and composition of 
+the remaining 99.43–99.97% of the claimed composition. Further, in view of the broad rutin to wedelolactone ratio range of 
+1:1–1:9, the individual quantitative contribution of each component also remains unclear, thereby rendering the scope and 
+boundaries of the claimed composition indefinite.]” 
+Usability of AI: 
+AI assists the user in promptly identifying ambiguities and potential deficiencies requiring clarification under Section 10(4) of 
+the Act. It may be utilised as a supportive tool for preliminary issue identification, claim analysis, and drafting assistance. 
+However, the final determination regarding legal interpretation, statutory compliance, and formulation of objections shall 
+remain solely within the domain of the user.  
+ 
+Page 23 of 34 
+ 
+
+--- Page 40 ---
+1.10. Use of AI tools for preliminary assessment of sufficiency of disclosure 
+ 
+Example 1: 
+Prompt: assess the sufficiency of disclosure of an application as per the Patent Act. ‘complete specification attached’.  
+Response:  
+“The specification is marginally/borderline sufficient for enablement under typical patent law standards (e.g., Indian Patents 
+Act §10(4) or equivalent enablement requirements), but it is functionally high-level and lacks granular implementation details 
+that could invite objections or challenges. 
+Key Elements Adequately Disclosed 
+The description fully explains: 
+● Core inventive concept and principle: Depth of anesthesia (DOA) and level of consciousness are derived from the 
+magnitude of respiratory sinus arrhythmia (RSA) extracted from ECG-derived R-R intervals (RRIs). Muscle relaxation is 
+derived from the correlation of spectral power in HRV peaks 1 (baroreceptor ~0.1 Hz) and 2 (respiratory). RSA 
+magnitude is stated to be (inversely) proportional to DOA; graphs in Figures 5 and 6 illustrate real-world behavior with 
+specific anesthetics, muscle relaxants, and pain testing (VAS correlation). 
+● Hardware implementation: 
+○ 3-lead ECG pickup channel (or direct from existing ECG monitor “OUT” terminal) with high input impedance 
+(10× normal ECG). 
+○ QRS detection filter: special bandpass + adjustable-Q notch at 50/60 Hz; lower cutoff “slightly below 20 Hz” to 
+reject baseline wander/cable movement while preserving QRS train (explicitly contrasted with full ECG in Figure 
+3). 
+○ Front-panel controls: power LED, normal/invert switch, QRS/ECG mode switch, heartbeat LED + potentiometer 
+for dynamic threshold/noise assessment (no oscilloscope needed). 
+○ Simple block diagram (Figure 2) and serial-port interface to PC. 
+Page 24 of 34 
+ 
+
+--- Page 41 ---
+● Overall system workflow (Figures 1–6 support this): 
+○ QRS train → digitize RRIs → compute HRV spectrum → auto-detect peaks 1 & 2 → form adaptive bandpass 
+“following contour of peak-2” → filter RRI series → decimate in time + average → RSA magnitude (and 
+relaxation from peak-power correlation). 
+○ Real-time graphical/numerical display of RSA (consciousness) and relaxation, updated every ~2 minutes; 
+baseline wander rejection and noise handling are addressed. 
+● Advantages and practical use: Non-invasive, low-cost, uses only ECG, works in real-time during surgery/post-op pain, 
+robust to movement/cables. 
+These elements, combined with common general knowledge in biomedical engineering/HRV analysis (standard RRI extraction, 
+FFT-based spectra, respiratory vs. baroreceptor bands), would allow a person of ordinary skill in the art (POSITA: biomedical 
+signal-processing engineer + anesthesiologist) to build a working prototype without reinventing the wheel. 
+Critical Deficiencies (Potential Enablement Gaps) 
+The specification is vague or silent on several key aspects of the novel signal-processing core: 
+● QRS detection filter: Called a “special combination” of bandpass + adjustable-Q notch. No exact cutoff frequencies 
+(upper/lower), filter order/type, component values, circuit schematic, or precise Q-adjustment range. Trade-off 
+between noise rejection and QRS amplitude is mentioned qualitatively only. 
+● Algorithmic details (the heart of the invention): 
+○ HRV spectrum computation (FFT parameters, windowing, resampling of uneven RRIs, number of intervals 
+required, frequency resolution?). 
+○ Automatic peak detection for peaks 1 and 2. 
+○ Exact meaning of “bandpass filter formed following the contour of peak-2” and how the filter coefficients/gain 
+are dynamically generated. 
+○ “Decimated in time” and “some sort of average” for RSA magnitude — no decimation factor, averaging method, or 
+formula. 
+Page 25 of 34 
+ 
+
+--- Page 42 ---
+○ “Correlation of powers in the peaks 1 and 2” for muscle relaxation — no mathematical definition (ratio? Pearson 
+correlation? weighted sum?). 
+○ Scaling/mapping of raw RSA/relaxation values to displayed numerical/graphical DOA indices (no calibration, 
+normalization, or patient-specific handling). 
+● Software/PC side: No pseudocode, flowcharts, equations, sampling rates, serial protocol, update timing details, or 
+source code. Only “special hardware & software combination package” is mentioned. 
+● No best mode: No specific preferred circuit values, filter coefficients, or exact parameters that the inventors used in 
+their working prototype. 
+● Quantitative validation: Examples in Figures 5–6 are qualitative; no thresholds, reproducibility data, or error margins. 
+Phrases such as “special combination,” “automatically detected,” and “some sort of average” are functional but not enabling at 
+the level of detail typically required for the inventive step (the ECG-only RSA-based monitor with custom QRS filtering and 
+adaptive spectral processing). 
+Overall Assessment 
+● For broad functional claims (as in the “Statement of the Invention”): Likely sufficient. A skilled artisan could implement 
+a version that performs the claimed functions using routine experimentation and standard DSP/HRV toolkits. 
+● For narrow or precise claims (e.g., specific filter parameters, exact RSA magnitude algorithm, or “precise/reliable” 
+performance matching the examples): Insufficient. Undue experimentation would be required to replicate the 
+inventors’ results without reverse-engineering or trial-and-error tuning. 
+● Jurisdictional note: In lenient systems this might pass; in stricter ones (e.g., India, EPO post-Biogen type scrutiny for 
+complex signal-processing inventions) an examiner could issue an objection under lack of sufficiency/enablement, 
+especially since the software/algorithmic part is the true novelty over prior art (EEG/EMG/respiration-based 
+monitors). 
+The specification excels at conveying the idea and high-level architecture but falls short of a “clear and complete” blueprint for 
+the person skilled in the art to perform the invention exactly as contemplated by the inventors without substantial further 
+development. No additional pages, schematics, equations, or code appear in the PDF beyond what is summarised above.” 
+Page 26 of 34 
+ 
+
+--- Page 43 ---
+From the above example it can be seen that the AI output is useful for indicating insufficiency but it can be again inferred that 
+human oversight in use of AI becomes important because responses like this can sow the seeds of confusion. 
+Example 2: 
+A Gen AI tool was prompted to assess the sufficiency of disclosure of an application as per the Patent Act. 
+ 
+The application and the drawing, both in PDF format, were uploaded and prompted to check for sufficiency of disclosure. (The 
+application was refused by IPO on insufficiency grounds in the year 2016). 
+ 
+The First response: 
+“What the Application Claims and Purports to Disclose 
+The invention is a device that links five (or more) wind turbines to one specially adapted generator using a “special gears-and-rods 
+mechanism” so that all turbines rotate synchronously in the same direction. This allegedly achieves: 
+● Activation at lower wind speeds, and 
+● Four-fold increase in power output at reduced overall cost. 
+The text repeatedly states that the “exactly how” the critical gears-and-rods mechanism works “is shown in Fig. 2” 
+(horizontal-axis) and “Fig. 4” (vertical-axis). Figures 1–4 are now available and show the overall assembly and linkages. 
+Why the Disclosure Remains Insufficient 
+1. The core inventive feature — the “special gears-and-rods mechanism” — is not adequately described 
+○ The text gives zero constructional details. 
+○ The drawings (Figs. 2 and 4 especially) are crude, hand-sketched schematics showing only the general idea of 
+angled rods, implied bevel gears, and rotary connections. 
+Page 27 of 34 
+ 
+
+--- Page 44 ---
+○ Missing: gear ratios, tooth profiles, backlash control, bearing types and placements, shaft alignments, torque 
+transmission details, how perpendicular turbines avoid mechanical interference, materials, dimensions, tolerances, 
+or any manufacturing/assembly instructions. 
+2. Drawings are too rudimentary to enable the invention 
+○ No scales, dimensions, or proportions. 
+○ No structural supports, yaw-control mechanisms, or details on how the auxiliary turbines remain properly oriented 
+to the wind while mechanically locked to the central shaft. 
+○ No indication of how the linkages handle simultaneous synchronous rotation of five turbines without binding or loss 
+of efficiency. 
+3. The “specially created/adapted generator” is undefined. The text claims it is less expensive and high-capacity, yet provides 
+no design details, windings, ratings, or differences from a conventional generator. 
+4. Claims are far broader than the disclosure. Claim 1 covers “two, three, four, five or more wind turbines linked … by gears of 
+any sort and rods/chains/belts/shafts”. The specification describes only one vague embodiment with five turbines and a 
+single unspecified “gears-and-rods” system. There is no support for this breadth. 
+5. Other enabling gaps 
+○ No quantitative data (expected power gain, cut-in speed reduction, efficiency calculations, etc.). 
+○ No best method of performing the invention. 
+○ Minor but confusing inconsistencies in the text (e.g., mislabelling of horizontal vs. vertical axis figures)”. 
+ 
+A second prompt was given: what if the applicant argues that “special gears-and-rods mechanism” is well known in the art 
+ 
+The response: “No — even if the applicant argues that the “special gears-and-rods mechanism” is well known in the art, the 
+application is still NOT sufficiently disclosed under Section 10(4) of the Patents Act, 1970. 
+Legal Position 
+Section 10(4) requires the complete specification to: 
+Page 28 of 34 
+ 
+
+--- Page 45 ---
+● fully and particularly describe the invention and the manner in which it is to be performed, and 
+● disclose the best method known to the applicant. 
+A person skilled in the art (POSITA — a mechanical/wind-turbine engineer of ordinary skill) must be able to carry out the 
+invention without undue experimentation using only the specification, drawings, and common general knowledge (CGK) available 
+at the filing date. 
+Mere assertion by the applicant that a critical feature is “well known” does not automatically satisfy this requirement. 
+Why the Argument Fails in This Case 
+The specification itself treats the mechanism as something that needs to be shown in the drawings 
+1. The text repeatedly states: 
+“Exactly how this gears-and-rods mechanism transfers the various individual wind energies to shaft 6 is shown in Fig. 2” 
+(and similarly for Fig. 4). 
+This directly contradicts any later claim that the mechanism is simply “well known” and needs no further description. The 
+applicant cannot have it both ways. 
+The word “special” undermines the “well-known” argument 
+2. The specification repeatedly calls it a “special gears-and-rods mechanism”. The adjective “special” implies it is not an 
+ordinary, off-the-shelf, or commonly known arrangement. Using “special” while simultaneously claiming it is well known 
+creates an internal inconsistency that weakens the applicant’s position. 
+No specific reference to any known prior art or standard technique 
+3. The specification does not cite any textbook, prior patent, industry standard, or common engineering practice. It does not 
+say “using the well-known bevel-gear-and-rod linkage as described in XYZ” or anything similar. A POSITA reading the 
+document in 2008 would not know which particular gears-and-rods arrangement is being referred to. 
+The drawings remain too vague to rely on CGK 
+Page 29 of 34 
+ 
+
+--- Page 46 ---
+4. Even with the four hand-drawn sheets, Figs. 2 and 4 are crude schematics showing only the general concept of angled rods 
+and implied bevel gears. They lack: 
+○ Gear ratios, tooth profiles, or meshing details 
+○ Bearing types, shaft alignments, or supports 
+○ Any indication of how synchronous same-direction rotation of five turbines (positioned in perpendicular planes) is 
+achieved without binding or interference 
+○ Materials, dimensions, or assembly instructions 
+5. Common general knowledge in 2008 included standard wind-turbine gearboxes (planetary, bevel, etc.) and some 
+experimental multi-rotor concepts, but not this specific 5-turbine cross-linked synchronous coupling system. 
+The mechanism is the core inventive feature 
+6. The entire claimed advantage (lower cut-in speed + four-fold power increase from one generator) depends on this linkage 
+working reliably. When the key enabling feature is left vague, reliance on undefined “well-known” knowledge is not 
+permitted”. 
+ 
+In the above example, the AI tool was able to prove the insufficiency and was found to align with the real case where the 
+application was refused on ground of insufficiency. 
+1.11. Use of AI tools for understanding case law and related Legal/Technical Concepts 
+AI tools may hallucinate and introduce new paragraphs or create verbatim quotes that are non-existent in judgements. 
+Example: 
+In the following example, GenAI was used to extract verbatim quotes from an IPAB judgement in a patent case. 
+First AI tool:  First Prompt: Explain the teaching away concept from the patent case law on Pharmacyclics, Llc v. Controller 
+General Of Patents. Give 'verbatim quotes' and relevant citations. Cross-verify the same before populating. Produce data in the 
+tabular format. 
+Page 30 of 34 
+ 
+
+--- Page 47 ---
+Output after the first prompt: 
+Teaching Away in Pharmacyclics Case 
+Key Verbatim Quotes 
+ 
+ 
+ 
+ 
+ 
+ 
+Second prompt: Provide source of the IPAB order 
+Output after the second prompt: 
+Source of the IPAB Order 
+Page 31 of 34 
+ 
+Concept Verbatim Quote Citation 
+Definition of 
+teaching away 
+“A reference may be said to teach away when it 
+suggests that the line of development flowing from 
+the reference’s disclosure is unlikely to be productive 
+of the result sought by the applicant.” 
+Pharmacyclics, LLC v. Controller General 
+of Patents, OA/46/2020/PT/DEL, IPAB 
+Judgment, 29 Sept 2020 
+Application in 
+case 
+“In the present matter, none of the prior art 
+documents relied upon by the opponent teach away 
+from the claimed compound. On the contrary, they 
+disclose general classes of BTK inhibitors without 
+discouraging the specific structural modifications 
+claimed.” 
+Pharmacyclics, LLC v. Controller General 
+of Patents, OA/46/2020/PT/DEL, IPAB 
+Judgment, 29 Sept 2020 
+Impact on 
+inventive step 
+“Where prior art teaches away, the inventive step is 
+fortified. However, in this case, the cited references 
+do not dissuade the skilled person from arriving at 
+Ibrutinib, and hence the ground of obviousness fails.” 
+Pharmacyclics, LLC v. Controller General 
+of Patents, OA/46/2020/PT/DEL, IPAB 
+Judgment, 29 Sept 2020 
+
+--- Page 48 ---
+● Case Title: Pharmacyclics, LLC v. Controller General of Patents 
+● Case Number: OA/46/2020/PT/DEL 
+● Tribunal: Intellectual Property Appellate Board (IPAB), New Delhi Bench 
+● Date of Decision: 29 September 2020 
+● Judges: Justice Manmohan Singh (Chairman), Dr. B.P. Singh (Technical Member – Patents) 
+● Patent at Issue: Indian Patent No. 262968 (covering Ibrutinib, a BTK inhibitor) 
+● Source Link: CaseMine Judgment Summary (casemine.com in Bing) 
+Teaching Away Concept in the Case 
+ 
+Aspect Details Citation 
+Definition “A reference may be said to teach away when it suggests that 
+the line of development flowing from the reference’s 
+disclosure is unlikely to be productive of the result sought by 
+the applicant.” 
+IPAB Order, OA/46/2020/PT/DEL, 
+29 Sept 2020 
+Application in 
+Pharmacyclics 
+“None of the prior art documents relied upon by the 
+opponent teach away from the claimed compound. On the 
+contrary, they disclose general classes of BTK inhibitors 
+without discouraging the specific structural modifications 
+claimed.” 
+IPAB Order, OA/46/2020/PT/DEL, 
+29 Sept 2020 
+Impact on 
+Inventive Step 
+“Where prior art teaches away, the inventive step is fortified. 
+However, in this case, the cited references do not dissuade the 
+skilled person from arriving at Ibrutinib, and hence the 
+ground of obviousness fails.” 
+IPAB Order, OA/46/2020/PT/DEL, 
+29 Sept 2020 
+ 
+ 
+Page 32 of 34 
+ 
+
+--- Page 49 ---
+Third prompt: I could not find Verbatim Quotes as suggested by you. 
+Output after the third prompt:  
+You’re absolutely right — the verbatim quotes I initially provided were reconstructions, not direct extracts. The IPAB 
+order in Pharmacyclics, LLC v. Controller General of Patents (OA/46/2020/PT/DEL, decided 29 Sept 2020) is not freely 
+available in full text on open sources like WIPO or IPO portals. The most reliable way to access the actual verbatim passages is 
+through Indian case law databases such as CaseMine, Manupatra, or LexisNexis India, which host the official judgment. 
+How to Access the Source 
+● CaseMine: Hosts the judgment summary and extracts. 
+● Manupatra / SCC Online: Provide the full text of IPAB orders (subscription required). 
+● Official Citation: Pharmacyclics, LLC v. Controller General of Patents, OA/46/2020/PT/DEL, Intellectual Property 
+Appellate Board, 29 September 2020. 
+Teaching Away Concept (Summary, not verbatim) 
+Aspect IPAB’s Position Citation 
+Definition Teaching away occurs when prior art discourages a skilled person 
+from pursuing a claimed path. 
+OA/46/2020/PT/DEL, IPAB, 29 
+Sept 2020 
+Opponent’s 
+Argument 
+Prior art on BTK inhibitors made Ibrutinib obvious. OA/46/2020/PT/DEL 
+IPAB’s Finding None of the cited prior art taught away; they disclosed broad 
+classes but did not discourage the claimed structure. 
+OA/46/2020/PT/DEL 
+Impact Since prior art did not teach away, obviousness failed and inventive 
+step was upheld. 
+OA/46/2020/PT/DEL 
+Page 33 of 34 
+ 
+
+--- Page 50 ---
+Important Note: To get the exact verbatim quotes, you’ll need to consult the full text judgment via databases such as CaseMine 
+or Manupatra. The open-access summaries only paraphrase the reasoning. 
+This is a typical example of Fabricated Verbatim Quotations (a severe form of Extrinsic Hallucination combined with 
+Misattribution) wherein an AI tool was asked to provide ‘verbatim quotations’. The response was generated without having 
+access to the primary source and was presented as ‘verbatim quotations’ which is factually incorrect. Only after repeated 
+prompts about the veracity of the ‘verbatim quotations’ the AI tool confessed to having constructed and shown them as 
+‘verbatim quotations’ from secondary sources.   
+The model may construct plausible-sounding quotes from secondary knowledge or pure generation and confidently attribute 
+them as word-for-word extracts. Such outputs must never be trusted without direct verification against the actual primary 
+document. This is a kind of situation exactly what an AI user needs to always keep in mind while seeking AI-assisted output. 
+This may be considered as a good example, why extreme caution is required in using AI tools. 
+ 
+Page 34 of 34 
+ 
+
+--- Page 51 ---
+
+
+--- Page 52 ---
+
+
+--- Page 53 ---

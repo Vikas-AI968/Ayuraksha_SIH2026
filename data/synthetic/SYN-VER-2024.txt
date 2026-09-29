@@ -1,0 +1,20 @@
+TITLE: AYUSH Regulatory & Export Policy Guidelines (Version 2024 - Historical)
+AUTHORITY: IP-SAKTI Synthetic Ministry of AYUSH
+JURISDICTION: India
+DOMAIN: Drug Classification
+DOCUMENT_TYPE: Guidance
+EFFECTIVE_DATE: 2024-01-01
+SOURCE_URL: synthetic://ayush-ministry/export-policy-2024
+SOURCE_TYPE: synthetic
+VERSION: 2024.1
+
+--- CONTENT ---
+HISTORICAL POLICY 2024: AYURVEDA HERBAL EXPORT STANDARDS
+
+Clause 1. Preliminary Export Approvals (2024 Framework)
+Under the 2024 policy framework, export of raw Ayurvedic herbal decoctions required a basic SBB notification and standard phytosanitary certificate. Benefit sharing (ABS) fees for raw herbal exports were capped at 0.1% of FOB export value.
+
+Clause 2. Heavy Metal Limits (2024 Baseline)
+Permissible limits for heavy metals in exported herbal formulations were: Lead (10 ppm), Cadmium (0.3 ppm), Mercury (1.0 ppm), Arsenic (3.0 ppm).
+
+[NOTE: THIS IS THE 2024 HISTORICAL VERSION. SUPERSEDED BY VERSION 2026 FOR CURRENT COMPLIANCE.]

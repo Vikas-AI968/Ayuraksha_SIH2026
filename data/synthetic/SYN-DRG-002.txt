@@ -1,0 +1,21 @@
+TITLE: Regulatory Framework for Patent or Proprietary Ayurvedic Medicines
+AUTHORITY: IP-SAKTI Synthetic AYUSH Drug Controller
+JURISDICTION: India
+DOMAIN: Drug Classification
+DOCUMENT_TYPE: Rule
+EFFECTIVE_DATE: 2025-04-15
+SOURCE_URL: synthetic://ayush-controller/proprietary-medicine-rules-2025
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+PATENT OR PROPRIETARY AYURVEDIC MEDICINE REGULATION
+
+Section 1. Definition
+Under Section 3(h) of the Drugs and Cosmetics Act, 1940, a 'Patent or Proprietary Medicine' in relation to ASU (Ayurveda, Siddha, Unani) systems means a formulation containing ingredients specified in the classical texts, but which is NOT a classical formulation listed in the First Schedule, or which is prepared using novel modern excipients and dosages.
+
+Section 2. Safety and Efficacy Proof
+Applicants for a Proprietary Ayurvedic Medicine license must submit:
+(a) Scientific rationale for ingredient combination.
+(b) Safety toxicological data where non-classical extraction solvents (e.g. ethanol/hydro-alcoholic extracts exceeding classical water decoction) are utilized.
+(c) Proof that ingredients do not include Schedule E(1) poisonous plants above permissible limits.

@@ -1,0 +1,18 @@
+TITLE: State Biodiversity Board Intimation and Revenue Sharing Regulations
+AUTHORITY: IP-SAKTI Synthetic State Biodiversity Board
+JURISDICTION: India
+DOMAIN: Biodiversity/ABS
+DOCUMENT_TYPE: Rule
+EFFECTIVE_DATE: 2024-12-01
+SOURCE_URL: synthetic://sbb-state/revenue-sharing-rules-2024
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+STATE BIODIVERSITY BOARD (SBB) COMMERCIAL ACCESS RULES
+
+Section 1. Obligation of Domestic Manufacturers
+Indian manufacturers acquiring biological resources from local farmers or forests for commercial Ayurvedic drug production must give prior intimation to the State Biodiversity Board in Form I.
+
+Section 2. Allocation of ABS Funds
+Of the benefit sharing funds collected by SBB, 95% shall be disbursed directly to local Biodiversity Management Committees (BMCs) and benefit claimants for conservation and habitat protection.

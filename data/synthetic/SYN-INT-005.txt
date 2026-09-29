@@ -1,0 +1,18 @@
+TITLE: Madrid System International Trademark Filing for Ayurvedic Brands
+AUTHORITY: IP-SAKTI Synthetic WIPO Madrid Registry
+JURISDICTION: International
+DOMAIN: Trademarks
+DOCUMENT_TYPE: Treaty
+EFFECTIVE_DATE: 2024-08-15
+SOURCE_URL: synthetic://wipo/madrid-system-ayurveda-2024
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+MADRID SYSTEM FOR INTERNATIONAL BRAND PROTECTION
+
+Article 2. Basic Application Requirement
+An Ayurvedic brand owner registered with the Indian Trademark Registry may file a single international trademark application under the Madrid Protocol specifying multiple member countries.
+
+Article 3. Dependency (Central Attack)
+For 5 years from international registration date, protection remains dependent on the basic Indian trademark. If the Indian mark is canceled, the international registration is invalidated across all designated countries.

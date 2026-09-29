@@ -1,0 +1,772 @@
+--- Page 1 ---
+89 GI/2024 (1) 
+रजजस्ट्री सं. डी.एल.- 33004/99 REGD. No. D. L.-33004/99 
+ 
+ 
+ 
+xxxGIDHxxx 
+xxxGIDExxx 
+ऄसाधारण  
+EXTRAORDINARY 
+भाग II—खण् ड 3—ईप-खण् ड (i)  
+PART II—Section 3—Sub-section (i) 
+प्राजधकार से प्रकाजित 
+PUBLISHED BY AUTHORITY 
+ 
+वाजणज्य और ईद्योग मंत्रालय 
+(ईद्योग संवधधन और अंतररक व्यापार जवभाग) 
+ऄजधसूचना 
+नइ ददल्ली, 2 जनवरी, 2024 
+सा.का.जन. 08(ऄ).—पेटेंट जनयम, 2003 में और संिोधन करने क े  जलए, पेटेंट ऄजधजनयम, 1970 की धारा 159 
+द्वारा प्रदत्त िजियों का प्रयोग करते हुए , क ें द्र सरकार जनम्नजलजखत मसौदा जनयम बनाने का प्रस्ट्ताव करती है, जजन्हें आससे 
+प्रभाजवत होने वाले सभी व्यजियों की जानकारी क े  जलए ईि धारा की ईप-धारा (3) की ऄपेक्षा क े ऄनुसार, एतदद्वारा 
+प्रकाजित दकया जाता है और यह नोरटस ददया जाता है दक ईि मसौदा जनयमों पर , आस ऄजधसूचना को प्रकाजित करने 
+वाले भारत क े  राजपत्र, जजसमें यह ऄजधसूचना प्रकाजित है, की प्रजतयां, अम लोगों को ईपलब्ध कराए जाने की तारीख से 
+तीस ददनों की ऄवजध समाप्त होने क े  बाद,  जवचार दकया जाएगा; 
+अपजत्तयां या सुझाव, यदद कोइ हों , सजचव, ईद्योग संवधधन और अंतररक व्यापार जवभाग , वाजणज्य और ईद्योग 
+मंत्रालय, भारत सरकार, वाजणज्य भवन, नइ ददल्ली-110001 को या ipr4-dipp@nic.in और ipr-patents@gov.in 
+पर इ-मेल द्वारा भेज ददए जाएं; 
+जनर्ददष्ट ऄवजध की समाजप्त से पहले, ईि मसौदा जनयमों क े  संबंध में दकसी भी व्यजि से प्राप्त होने वाली अपजत्तयों 
+और सुझावों पर क ें द्र सरकार द्वारा जवचार दकया जाएगा।  
+मसौदा जनयम 
+1. संजक्षप्त नाम और प्रारंभ 
+(i) आन जनयमों को ‘मसौदा पेटेंट (दूसरा संिोधन) जनयम, 2024’ कहा जाएगा। 
+सं.   07] नइ ददल्ली, बुधवार, जनवरी 3, 2024/पौष 13, 1945  
+No. 07] NEW DELHI, WEDNESDAY, JANUARY 3, 2024/PAUSHA 13, 1945  
+सी.जी.-डी.एल.-अ.-05012024-251180
+CG-DL-E-05012024-251180
+
+--- Page 2 ---
+2  THE GAZETTE OF INDIA : EXTRAORDINARY    [PART II—SEC. 3(i)] 
+ 
+ (ii) ये जनयम अजधकाररक राजपत्र में आनक े  प्रकािन की तारीख से प्रभावी होंगे। 
+2. पररभाषाएं.—आन जनयमों में, जब तक दक संदभध से ऄन्यथा ऄपेजक्षत न हो, जनम्नजलजखत को जोडा जाएगा,  
+नामतः –  
+(कक) "ऄजधजनणधयन ऄजधकारी" का ऄथध है ऄजधजनयम की धारा 124क क े ऄनुसार जनयुि ऄजधकारी; 
+(ककख) "ऄपीलकताध" का ऄथध है ऐसा पीजडत व्यजि जो एक जनणधयन ऄजधकारी के अदेि के जवरुद्ध ऄजधजनयम की  
+धारा 124ख के ऄनुसार ऄपीलीय प्राजधकरण के समक्ष ऄपील करना चाहता है; 
+(ककग) "ऄपीलीय प्राजधकरण" का ऄथध ऄजधजनयम की धारा 124 बी के ऄनुसार जनयुि ऄजधकारी से है; 
+(ककघ) ऄध्याय XIV में दकए गए सभी प्रकार के संचार को आलेक्ट्रॉजनक रूप से संप्रेजषत माना जाएगा। बिते दक 
+संचार का साधन टेक्ट्स्ट्ट मेसेज या इमेल होगा; 
+(ककङ) "जिकायतकताध" का ऄथध है ऐसा पीजडत व्यजि जो ऄजधजनणधयन ऄजधकारी के समक्ष जिकायत करता है; 
+1. मूल जनयम में, जनयम 107 क े  पश्चात, जनम्नजलजखत को जोडा जाएगा, नामतः,— 
+“ऄध्याय XIVक 
+कजतपय िाजस्ट्तयों का ऄजधजनणधयन 
+107क.  कजतपय िाजस्ट्तयों का ऄजधजनणधयन.—(1) कोइ भी व्यजि, ऄजधजनयम की धारा 120, 122, या 123 में जनजहत 
+प्रावधानों के प्रजत दकसी भी व्यजि द्वारा दकए गए दकसी भी ईल्लंघन या चूक के बारे में, ऄजधजनणधयन ऄजधकारी को  
+प्रपत्र 32 के तहत जिकायत दजध कर सकता है। 
+(2) जिकायत के साथ एक जववरण जजसमें ईन तथ्यों को जनधाधररत दकया जाए जजन पर अवेदक भरोसा करता है 
+और जववरण के समथधन में सबूत भी होना चाजहए, जैसा दक जनधाधररत दकया गया है।  
+107ख.  ऄजधजनणधयन ऄजधकारी की जनयुजि.—(1). जनयंत्रक, अदेि द्वारा, धारा 73 में ईजल्लजखत ऄजधकारी को, 
+ऄजधजनयम की धारा 120, 122 या 123 में जनजहत प्रावधानों के तहत ईल्लंघन या चूक करने वाले दकसी भी व्यजि पर 
+जांच करने और जुमाधना लगाने के जलए ऄजधजनणधयन ऄजधकारी क े रूप में ऄजधक ृ त करता है। 
+(2). जहां एक से ऄजधक ऄजधजनणधयन ऄजधकारी जनयुि दकए जाते हैं, जिकायतकताध (ओं) द्वारा दजध की गइ 
+जिकायत, स्ट्वचाजलत रूप से और यादृजछछक रूप से, क ं प्यूटर ररसोस जसस्ट्टम द्वारा ऄजधजनणधयन ऄजधकारी को 
+अवंरटत की जाएगी। 
+(3). प्रत्येक ऄजधजनणधयन ऄजधकारी के पास जसजवल न्यायालय की िजियां होंगी, ऄथाधत्: 
+(क) गवाहों की ईपजस्ट्थजत का प्रवतधन तथा दस्ट्तावेजों और भौजतक वस्ट्तुओं को प्रस्ट्तुत करने को ऄजनवायध करना; 
+और 
+(ख) ऄजधजनणधयन ऄजधकारी को भारतीय दंड संजहता, 1860 की धारा 21 के तहत लोक सेवक माना जाएगा। 
+107ग.  सारांि कायधवाही, जब कोइ मामला नहीं बनता है— (1) जहां ऄजधजनणधयन ऄजधकारी आस बात से संतुष्ट है दक 
+जनयम 107 ग के तहत, प्रथम दृष्टया जिकायत पर जवचार करने योग्य मामला नहीं बनता है, तो ऄजधजनणधयन ऄजधकारी 
+जिकायत को सरसरी तौर पर रद्द और खाररज कर देगा और एक महीने की ऄवजध के भीतर स्ट्पीककग ऑडरध पाररत करेगा। 
+107घ.  सारांि कायधवाही, जब मामला बनता है — जहां ऄजधजनणधयन ऄजधकारी संतुष्ट है दक प्रथम दृष्टया जिकायत पर 
+जवचार करने योग्य मामला बनता है तो, एक महीने की ऄवजध के भीतर जनम्नजलजखत क े माध्यम से कायधवाही िुरू करें: 
+(क) कजथत ईल्लंघनकताध को नोरटस जारी करना ऄजधजनणधयन ऄजधकारी कजथत  ईल्लंघन की तारीख से एक महीने की 
+ऄवजध के भीतर कजथत ईल्लंघनकताध को नोरटस की एक प्रजत प्रदान करेंगे। जिकायत की एक प्रजत ईस व्यजि को दी जाएगी 
+जजसने कजथत तौर पर जनयम 107 क (1) के ऄंतगधत जनधाधररत का ईल्लंघन दकया है। जहां ऄपवादस्ट्वरूप और ऄसाधारण 
+पररजस्ट्थजतयों के अधार पर ऐसा करना व्यावहाररक नहीं है, जिकायत पंजीक ृ त डाक द्वारा भेजी जाएगी। 
+बिते दक आस ईप-जनयम के तहत नोरटस ददए जाने पर व्यय जिकायतकताध द्वारा दकया गया हो।  
+(ख) जवरोधी पक्ष द्वारा जलजखत जिकायतें  जिकायत की प्रजत प्राप्त होने पर, जजस व्यजि ने कजथत रूप से ईल्लंघन दकया है, 
+वह नोरटस जारी करने की तारीख से पंद्रह ददनों की ऄवजध के भीतर प्रपत्र नंबर 14 के तहत ऄपना बयान दजध करेगा, 
+जजसमें जिकायतकताध द्वारा जिकायत प्राप्त होने की तारीख से बयान के समथधन में ईन तथ्यों और सबूतों को जनधाधररत करना 
+होगा, जजन पर वह भरोसा करता है। 
+
+--- Page 3 ---
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण  3 
+ 
+(ग) जांच करने का तरीका (1) ऄजधजनणधयन ऄजधकारी ईस व्यजि को एक नोरटस जारी करेगा जजसने ऄजधजनयम के तहत 
+कजथत रूप से ईल्लंघन दकया है, ईस व्यजि को ईस पर जनणधय जनधाधररत करने वाली जिकायत की जवचारणीयता क े  संबंध 
+में कारण बताने की अवश्यकता होगी। कोइ भी ऄजधजनणधयन ऄजधकारी सामान्य  या जविेष अदेि द्वारा ऄजधक ृत दकसी 
+ऄजधकारी द्वारा जलजखत में की गइ जिकायत के ऄलावा जांच नहीं करेगा। ऄंजतम अदेि तीन महीने की ऄवजध के भीतर 
+ऄजधजनणधयन ऄजधकारी द्वारा पाररत दकया जाएगा, जजसक े कारणों को जलजखत रूप में दजध दकया जाना है। 
+बिते दक आस ईप-जनयम के तहत जारी प्रत्येक नोरटस, ईस व्यजि द्वारा कजथत ईल्लंघन या गैर-ऄनुपालन की प्रक ृ जत को 
+स्ट्पष्ट रूप से आंजगत करेगा, जैसा भी मामला हो। 
+(2) आस ऄजधजनयम के तहत मुअवजे की मात्रा का जनधाधरण करते समय, ऄजधजनणधयन ऄजधकारी जनम्नजलजखत कारकों को 
+ध्यान में रखेगा, ऄथाधत्: —  
+(क) ऄनुजचत लाभ प्राप्त करने क े मामले में लाभ  की मात्रा, जहां भी मात्रात्मक हो, जडणॉल्ट के पररणामस्ट्वरूप बनाइ 
+जाए; 
+(ख) जडणॉल्ट के पररणामस्ट्वरूप दकसी भी व्यजि को होने वाली हाजन की राजि; 
+(ग) जडणॉल्ट की दोहराव वाली प्रक ृ जत। 
+(घ) समयावजध का जवस्ट्तार 
+(1) ऄजधजनणधयन ऄजधकारी, जसजवल प्रदिया संजहता, 1908 की धारा 35 बी के तहत लागत के भुगतान संबंधी 
+कारणों का जलजखत रूप में दजध करक े, अगे की ऄवजध को पंद्रह ददनों से ऄजधक नहीं बढा सकता है, यदद ईि व्यजि 
+ऄजधजनणधयन ऄजधकारी को संतुष्ट करता है दक ईसक े पास जनधाधररत ऄवजध के भीतर नोरटस का जवाब नहीं देने के 
+जलए पयाधप्त कारण है, ऄजधजनणधयन ऄजधकारी पक्षकारों की सुनवाइ करेगा और ईस पर एक मौजखक अदेि पाररत 
+करेगा। 
+(2) यदद, ऐसे व्यजि द्वारा बताए गए कारण, यदद कोइ हो, पर जवचार करने के बाद, ऄजधजनणधयन ऄजधकारी की 
+राय है दक जांच की जानी चाजहए, तो ऄजधजनणधयन ऄजधकारी ऐसे व्यजि को ईपजस्ट्थत होने क े जलए एक तारीख 
+जनधाधररत करते हुए एक नोरटस जारी करेगा। ईि व्यजि या तो व्यजिगत रूप से ईपजस्ट्थत हो सकता है या न्याजयक 
+प्राजधकरण के समक्ष ऄपना मामला प्रस्ट्तुत करने के जलए कानूनी जचदकत्सक की सहायता ले सकता है। 
+(3) सुनवाइ के जलए जनधाधररत तारीख पर और संबंजधत व्यजि (व्यजियों) को सुनवाइ का ईजचत ऄवसर देने के 
+बाद, ऄजधजनणधयन ऄजधकारी, जलजखत रूप में दजध दकए जाने वाले कारणों के ऄधीन, ऐसे व्यजि द्वारा जनधाधररत 
+िुल्क का भुगतान करक े सुनवाइ को भजवष्य की तारीख तक स्ट्थजगत करने के अदेि ऐसा सजहत कोइ भी अदेि 
+पाररत कर सकता है। 
+(4) ऄजधजनणधयन ऄजधकारी, ईपयुधि ईपजनयम (1) में जनर्ददष्ट व्यजि को मामले में सुनवाइ का ईजचत ऄवसर देने के 
+बाद, और यदद, ऐसी जांच पर, ऄजधजनणधयन ऄजधकारी संतुष्ट हो जाता है दक व्यजि ने ईल्लंघन दकया है, तो 
+न्यायजनणधयन ऄजधकारी ऐसा जुमाधना लगा सकता है या ऐसा मुअवजा दे सकता है जो ऄजधजनणधयन ऄजधकारी तीन 
+महीने के भीतर ईजचत समझे। 
+(5) जांच करते समय, ऄजधजनणधयन ऄजधकारी क े पास जनम्नजलजखत िजियां होंगी, ऄथाधत्: — (क) मामले के तथ्यों 
+और पररजस्ट्थजतयों से पररजचत दकसी व्यजि को तलब करना और ईसकी ईपजस्ट्थजत को सुजनजश्चत करना; (ख) साक्ष्य 
+के जलए अदेि देना या कोइ ऐसा दस्ट्तावेज प्रस्ट्तुत करना, जो ऄजधजनणधयन ऄजधकारी की राय में, जांच की जवषय 
+वस्ट्तु के जलए ईपयोगी या प्रासंजगक हो सकता है। 
+(6) यदद कोइ व्यजि, जनणधय ऄजधकारी के समक्ष ऄपेक्षानुसार ईप-जनयम (1) के तहत ईपजस्ट्थत होने में जवफल 
+रहता है, ईपेक्षा करता है या पेि होने से आनकार करता है, तो ऄजधजनणधयन ऄजधकारी ऐसे व्यजि की ऄनुपजस्ट्थजत में 
+जांच के कारणों को दजध करने के बाद अगे बढ सकता है। 
+(7) ईप-जनयम (4) के तहत पाररत प्रत्येक अदेि को ऄजधजनणधयन ऄजधकारी द्वारा ददनांदकत और हस्ट्ताक्षररत दकया 
+जाएगा। 
+(8) ऄजधजनणधयन ऄजधकारी ऄपने द्वारा पाररत अदेि की एक प्रजत संबंजधत व्यजि को भेजेगा जजसने चूक की है और 
+जनयंत्रक को भेजेगा। 
+(9) ऄजधजनयम के तहत दंड के रूप में वसूल की गइ पूरी राजि भारत की संजचत जनजध में जमा की जाएगी। 
+
+--- Page 4 ---
+4  THE GAZETTE OF INDIA : EXTRAORDINARY    [PART II—SEC. 3(i)] 
+ 
+107ङ. ऄपील को प्राथजमकता देने का रूप और तरीका. — (1) धारा 124 ए के तहत ऄजधजनणधयन ऄजधकारी द्वारा पाररत 
+अदेि से ऄसंतुष्ट कोइ भी व्यजि ऄपीलीय प्राजधकरण को प्रपत्र 33 के तहत ऄपील कर सकता है, जो अदेि की प्राजप्त की 
+तारीख से साठ ददनों की ऄवजध के भीतर ऄजधजनणधयन ऄजधकारी से कम से कम एक रैंक उपर का ऄजधकारी होगा। 
+बिते दक ऄपीलीय प्राजधकारी, यदद वह संतुष्ट है दक ऄपीलकताध को साठ ददनों की ईपयुधि ऄवजध के भीतर ऄपील प्रस्ट्तुत 
+करने से पयाधप्त कारण से रोका था, तो ऄपीलीय प्राजधकारी देरी को माफ कर सकता है और आसे जनधाधररत िुल्क के साथ 
+तीस ददनों से ऄजधक की ऄवजध के भीतर प्रस्ट्तुत करने की ऄनुमजत दे सकता है। 
+(2). ऄपीलीय प्राजधकारी के समक्ष ऄपील जनधाधररत प्रपत्र में होगी; ऄपील के अधार को जनधाधररत करना और ईस 
+अदेि की प्रमाजणत प्रजत के साथ होना चाजहए जजसक े जवरुद्ध ऄपील की गइ है। ऄपील क ं प्यूटर ररसोसध जसस्ट्टम द्वारा  
+अवंरटत की जाएगी। 
+(3). ऄपील के अधार और सत्यापन के प्रपत्र पर ऄपीलकताध द्वारा हस्ट्ताक्षर दकए जाएंगे।  
+बिते दक जहां पक्षकार का प्रजतजनजधत्व, ऄजधक ृ त प्रजतजनजध द्वारा दकया जाता है, प्रजतजनजध के पक्ष में ऐसे प्राजधकार की 
+एक प्रजत और ऐसे ऄजधक ृ त प्रजतजनजध द्वारा जलजखत सहमजत भी ऄपील क े साथ संलग्न की जाएगी: 
+बिते यह भी एक  दक ऄपील क े  ऄंतगधत एक से ऄजधक अदेिों के जखलाफ राहत की मांग नहीं की जाएगी, जब तक दक 
+मांगी गइ राहत पररणामी स्ट्वरूप की न हो। 
+(4) ऄपीलों का अबंटन स्ट्वचाजलत और यादृजछछक रूप से अवंरटत सॉफ्टवेयर प्रणाली के ऄनुरूप होगा। 
+(5) प्रत्येक ऄपील के साथ ऄपीलीय प्राजधकारी के पक्ष में ऑनलाआन पोटधल के माध्यम से पांच हजार रुपए का भुगतान 
+दकया जाएगा। 
+107च. ऄपील का पंजीकरण.—(1) ऄपील प्राप्त होने पर, ऄपीलीय प्राजधकारी ऐसी ऄपील की जतजथ का पृष्ांकन करेगा 
+और आस प्रकार क े  पृष्ांकन पर हस्ट्ताक्षर करेगा। 
+(2) यदद, जांच पर, ऄपील सही पाइ जाती है, तो आसे जवजधवत पंजीक ृ त दकया जाएगा और आसे एक िम संख्या प्रदान की 
+जाएगी:  
+बिते दक जहां ऄपील त्रुरटपूणध पाइ जाती है, ऄपीलीय प्राजधकारी ऄपीलकताध को आन जत्ररटयों को सुधारने क े  बारे में सुजचत 
+करेगा और ऄपीलकताध को त्रुरटयों की प्रक ृ जत के बारे में सूचना प्राप्त होने की जतजथ से कम से कम चौदह ददनों का समय दे 
+सकता है और यदद ऄपीलकताध ईपरोिानुसार ऄनुमत समयावजध के भीतर ऐसी त्रुरटयों को सुधारने में जवफल रहता है तो 
+ऄपीलीय प्राजधकारी अदेि द्वारा और जलजखत रूप में दजध दकए जाने वाले कारणों के अधार पर, ऐसी ऄपील को पंजीक ृ त 
+करने से आनकार कर सकता है और सात ददनों की ऄवजध के भीतर ऄपीलकताध को आस तरह के आनकार के बारे में सूजचत कर 
+सकता है: 
+बिते दक ऄपीलीय प्राजधकारी, जलजखत रूप में दजध दकए जाने वाले कारणों से, ईपयुधि पहले परंतुक में जनर्ददष्ट ऄवजध को 
+चौदह ददनों की ऄवजध तक और बढा  सकता है, यदद कोइ ऄपीलकताध ऄपीलकताध प्राजधकारी को संतुष्ट करता है दक 
+ऄपीलकताध के पास पहले परंतुक में ईजल्लजखत चौदह ददनों की ऄवजध के भीतर त्रुरटयों को ठीक नहीं करने के पयाधप्त कारण 
+मौजूद थे। 
+107छ. ऄपीलीय प्राजधकारी द्वारा ऄपील का जनपटान—(1) ऄपील स्ट्वीकार दकए जाने पर, ऄपीलीय प्राजधकारी, ईस 
+ऄजधजनणधयन ऄजधकारी को, जजसक े अदेि के जवरुद्ध ऄपील की गइ है, ऄपील की एक प्रजत प्रदान करेगा- साथ ही एक 
+नोरटस भी, जजसमें ऐसे ऄजधजनणधयन ऄजधकारी को ईस पर ऄपना ईत्तर, ऐसी ऄवजध के भीतर, आक्कीस ददनों से ऄजधक देना 
+ऄपेजक्षत नहीं होगा, दायर करने को कहा जाएगा, जैसा दक ऄपीलीय प्राजधकारी द्वारा ईि नोरटस में जनधाधररत दकया जाए: 
+बिते दक ऄपीलीय प्राजधकारी, जलजखत रूप में दजध दकए जाने वाले कारणों से, ईपरोि ईप जनयम (1) में जनर्ददष्ट 
+ऄवजध को आक्कीस ददनों की ऄवजध के जलए और बढा सकता है, यदद ऄपीलकताध ऄपीलीय प्राजधकारी को संतुष्ट कर देता है 
+तो ईसक े पास आक्कीस ददनों की ईपयुधि ऄवजध के भीतर ऄपील पर ऄपना जवाब दायर नहीं कर पाने का पयाधप्त कारण था। 
+(2) ऄपीलीय प्राजधकारी के समक्ष ऄपीलकताध द्वारा दायर प्रत्येक ईत्तर, अवेदन या जलजखत ऄभ्यावेदन की एक प्रजत, संचार 
+के आलेक्ट्रॉजनक माध्यमों के माध्यम से दूसरे पक्ष को ऄजवलंब दी जाएगी। 
+(3) ऄपीलीय प्राजधकारी, पक्षकारों को ऄपील की सुनवाइ की जतजथ क े  बारे में सूजचत करेगा, जो ऄपील की सुनवाइ के जलए 
+ऐसी सूचना की जतजथ के तीस ददन से पहले की जतजथ नहीं होगी। 
+
+--- Page 5 ---
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण  5 
+ 
+(4) सुनवाइ क े  जलए जनयत जतजथ पर ,ऄपीलीय प्राजधकारी, जलजखत रूप में दजध दकए जाने वाले कारणों के ऄध्यधीन, कोइ 
+भी अदेि पाररत कर सकता है, जैसा वह ईजचत समझे जजसमें जनधाधररत िुल्क के भुगतान के ऄध्यधीन सुनवाइ को भजवष्य 
+की जतजथ तक स्ट्थजगत करने का अदेि िाजमल है। 
+107ज. ऄपील की प्रदिया—(1) ऄपीलीय प्राजधकारी ऄपीलकताध को प्राक ृ जतक न्याय के जसद्धांतों के ऄनुसार सुनवाइ का 
+ऄवसर देगा। 
+(2)   ऄपीलीय प्राजधकारी, ऄपील की सुनवाइ के समय, ऄपीलकताध को, ऄपील के अधार में जनर्ददष्ट नहीं दकए गए ऄपील 
+के दकसी भी अधार को ऄपनाने की ऄनुमजत दे सकता है, यदद ऄपीलीय प्राजधकारी संतुष्ट है दक ईस अधार को ऄपील के 
+अधारों से हटाना जानबूझकर या ऄनुजचत नहीं था।  
+(3) ऄपीलीय प्राजधकारी, ऐसी अगे की जांच करने के बाद, जो अवश्यक हो, ऐसा अदेि पाररत करेगा, जैसा दक वह 
+ईजचत समझता है जजसक े  ऄंतगधत— 
+क) जनणधय या अदेि के जखलाफ ऄपील की पुजष्ट, संिोधन या जनरस्ट्तीकरण दकया गया हो; या 
+ख) मामले को नए जनणधय या ऄजधजनणधयन के जनदेिों के साथ वापस न्याजयक ऄजधकारी के पास भेजा गया हो, जैसा 
+भी मामला हो, क्ट्योंदक पहला जनणधय प्राक ृ जतक न्याय के जसद्धांतों का पालन दकए जबना  जनणधय पाररत दकया गया था; 
+बिते दक दकसी भी िाजस्ट्त या जुमाधने को बढाने वाला अदेि तब तक  पाररत नहीं दकया जाएगा जब तक दक 
+ऄपीलकताध को प्रस्ट्ताजवत अदेि क े संबंध कारण ददखाने का ईजचत ऄवसर नहीं ददया गया हो।       
+ (4) ऄपील का जनपटान करने वाले ऄपीलीय प्राजधकारी का अदेि, जलजखत रूप से ददया गया  एक तकधसंगत अदेि होगा 
+जजसमें जनणधय जनधाधरण के जलए बबदु ददए गए हों और ईन  पर ददया गया  जनणधय हो और जनणधय के कारणों को बताया 
+जाएगा। 
+ (5) ऄपीलीय प्राजधकारी, प्रत्येक ऄपील को दायर करने की जतजथ से छह महीने की ऄवजध के भीतर, जहां ऐसा करना संभव 
+हो, सुनवाइ करेगा और जनणधय लेगा। 
+(6) ऄपीलीय प्राजधकारी, यदद दकसी ऄपील की सुनवाइ के दकसी भी चरण में पयाधप्त कारण ददखाया जाता है, तो पक्षों या 
+ईनमें से दकसी पक्ष को समय-समय पर समय दे सकता है और जलजखत रूप में दजध दकए जाने वाले कारणों के जलए ऄपील 
+की सुनवाइ स्ट्थजगत कर सकता है: 
+बिते दक ऄपील की सुनवाइ के दौरान, दकसी पक्षकार को, जनधाधररत िुल्क के साथ, एक से ऄजधक बार ऐसा स्ट्थगन नहीं 
+ददया जाएगा। 
+बिते दक ऄपील की सुनवाइ के दौरान एक पक्ष को जनधाधररत िुल्क के साथ दो से ऄजधक बार ऄजतररि स्ट्थगन नहीं ददया 
+जाएगा। 
+(7) यदद ऄपीलकताध या दूसरा पक्ष सुनवाइ के जलए जनधाधररत जतजथ पर ईपजस्ट्थत नहीं होता है, तो ऄपीलीय प्राजधकरण 
+ऄपील का एकपक्षीय जनपटान कर सकता है: 
+बिते दक जहां ऄपीलकताध बाद में ईपजस्ट्थत होता है और ऄपीलीय प्राजधकारी को आस बात से संतुष्ट  संतुष्ट कर देता है दक 
+ईसक े ईपजस्ट्थत न होने के पयाधप्त कारण मौजूद थे, ऄपीलीय प्राजधकारी, एकपक्षीय अदेि को रद्द करने का अदेि दे सकता 
+है और ऄपील को ऄजधक-से-ऄजधक 1 वषध क े  भीतर बहाल कर सकता है। 
+(8)   ऄपील के जनपटान पर, ऄपीलीय प्राजधकारी, ईसक े द्वारा पाररत तकधसंगत अदेि से ऄपीलकताध और जवरोधी पक्ष को 
+ऄवगत कराएगा। 
+(क) ऄपीलीय प्राजधकारी का अदेि जलजखत में होगा और आसमें जनणधय के कारणों को संक्षेप में बताया जाएगा। 
+(ख) ईप-जनयम (1) में जनर्ददष्ट अदेि ऄपील की सुनवाइ करने वाले ऄपीलीय प्राजधकारी द्वारा ददनांदकत और 
+हस्ट्ताक्षररत होंगे। 
+(9)  ऄपीलीय प्राजधकारी द्वारा पाररत प्रत्येक अदेि की प्रमाजणत प्रजत ऄजधजनणधयन ऄजधकारी, ऄपीलकताध, जवरोधी पक्ष 
+और क ें द्र सरकार को संप्रेजषत की जाएगी। 
+
+--- Page 6 ---
+6  THE GAZETTE OF INDIA : EXTRAORDINARY    [PART II—SEC. 3(i)] 
+ 
+4. मूल जनयम में, पहली ऄनुसूची में, प्रजवजष्ट 58 के बाद, जनम्नजलजखत प्रजवजष्टयााँ िाजमल की जाएंगी, नामत: 
+“59. धारा 120, 122, या 123 के ईल्लंघन या 
+चूक के जलए जिकायत 
+32 10,000 50,000 ऄनुमजत नहीं ऄनुमजत नहीं 
+60. ऄजधजनणधयन ऄजधकारी द्वारा पाररत अदेि 
+के जवरुद्ध ऄपील 
+33 10,000 50,000 ऄनुमजत नहीं ऄनुमजत नहीं 
+5. मूल जनयम में,  दूसरी ऄनुसूची में, प्रपत्र की सूची में, 'प्रपत्र संख्या  31'  के बाद, जनम्नजलजखत िाजमल दकया जाएगा, 
+नामत: 
+“32. धारा 124क, जनयम 107क धारा 120, 122, या 123 क े  ईल्लंघन या चूक 
+क े  जलए जिकायत। 
+33. ऄजधजनणधयन ऄजधकारी द्वारा पाररत अदेि क े  जवरुद्ध ऄपील धारा 124ख, जनयम 107ङ  
+6. मूल जनयम में  दूसरी ऄनुसूची में, प्रपत्र  14 को, जनम्नजलजखत प्रपत्र को प्रजतस्ट्थाजपत दकया जाएगा, नामत: 
+“प्रपत्र 14” 
+पेटेन्ट ऄजधजनयम, 1970 
+(1970 का 39) 
+तथा 
+पेटेन्ट जनयम, 2003 
+पेटेंट में संिोधन/बहाली/पेटेंट का त्याग करने/ऄजनवायध लाआसेंस प्रदान करने या ईसकी ितों में संिोधन या जलजपकीय 
+त्रुरटयों के सुधार/ईल्लंघन या चूक की जिकायत के जवरोध की सूचना 
+[धारा 57(4), 61(1), 63(3), 78(5) और 87(2), 120, 122, 123; जनयम 81(3)(ख), 85(1), 87(2), 98(1), 
+101(3), 124, 107ङ का संदभध लें] 
+1. नाम, पता तथा राष्ट्रीयता 
+बताएं 
+मैं, हम1 ………………………………. 
+……………………………………… 
+……………………………………… 
+……………………………………… 
+एतद्द्वारा जवरोध की सूचना देते हैं: — 
+ददनांक……… की पेटेंट संख्या………… क े  अवेदन क े  संबंध में अवेदन/जवजनदेि में 
+संिोधन हेतु  
+या 
+ददनांक …… की पेटेंट संख्या …....… की बहाली के जलए अवेदन हेतु  
+या  
+ददनांक………… के पेटेंट संख्या…………का त्याग करने की पेिकि हेतु 
+या 
+ददनांक……… की पेटेंट संख्या……… के जनरस्ट्तीकरण करने हेतु या ऄजनवायध 
+लाआसेंस प्रदान करने हेतु 
+या  
+ददनांक…...… की पेटेंट संख्या ……..... के संबंध में लाआसेंस के जनयमों और ितों के 
+संिोधन हेतु 
+या  
+ददनांक……. की पेटेंट संख्या……...ऄथवा ददनांक……. की पेटेंट संख्या............ के 
+संदभध में ददनांक........... की जवजनदेि संख्या…….... ददनांक……. की पेटेंट 
+
+--- Page 7 ---
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण  7 
+ 
+संख्या........... में जलजपकीय त्रुरट के सुधार हेतु 
+या  
+प्रपत्र 31 में की गइ जिकायत हेतु 
+जजन कारणों पर ईि जवरोध दकया गया है वे जनम्नानुसार हैं:  
+……………………………………….. 
+……………………………………….. 
+भारत में सेवा के जलए मेरा/हमारा पता:2  
+………………………………………... 
+………………………………………... 
+ददनांक ...................20... 
+2. टेलीफोन और फ ै क्ट्स 
+नंबर(रों) जजसमें डाक 
+सूचकांक संख्या/कोड तथा 
+राज्य सजहत पूरा पता 
+िाजमल हो 
+ हस्ट्ताक्षर 3 ………………... 
+ (…………………...)4 
+3. प्रजतवादी द्वारा हस्ट्ताक्षर  
+दकया जाना चाजहए 
+ 
+4. ईस वास्ट्तजवक व्यजि का 
+नाम जजसने हस्ट्ताक्षर दकए 
+हैं 
+   सेवा में 
+महाजनयंत्रक, पेटेंट 
+पेटेंट कायाधलय, 
+...................... 
+  
+____________________________________________________________ 
+नोट - (क) जो लागू न हो ईसे काट दें। 
+(ख) िुल्क क े  जलए प्रथम ऄनुसूची देखें।” 
+____________________________________________________________ 
+7. मूल जनयम में, दूसरी ऄनुसूची में, प्रपत्र 31 के बाद, जनम्नजलजखत प्रपत्र िाजमल दकए जाएंगे, नामत: 
+“प्रपत्र 32” 
+पेटेन्ट ऄजधजनयम, 1970 
+(1970 का 39) 
+तथा 
+पेटेन्ट जनयम, 2003 
+धारा 120, 122, या 123 के 
+ईल्लंघन या चूक के जलए जिकायत 
+[धारा 124क, जनयम 107क देखें] 
+1. जिकायतकताध का जववरण (ऄजनवायध):- 
+क. नाम : 
+ख. सेवा के जलए पता : 
+ग. टेलीफोन नं.: 
+घ. इ-मेल (सेवा के जलए): 
+ 
+2. जिकायत का जववरण :-  
+a. कजथत ईल्लंघन या चूक के होने  की जतजथ, समय और 
+घटना: 
+ 
+b. सभी संबंजधत सामग्री का जववरण देते हुए ईल्लंघन या 
+चूक का जववरण: 
+ 
+
+--- Page 8 ---
+8  THE GAZETTE OF INDIA : EXTRAORDINARY    [PART II—SEC. 3(i)] 
+ 
+c. जववरण क े  समथधन में साक्ष्य:  
+मैं/हम…………., जिकायतकताध यह घोषणा करता हाँ/करते हैं दक यहां बताए गए तथ्य मेरी/हमारी सवोत्तम 
+जानकारी, सूचना और जवश्वास के ऄनुसार सही हैं। 
+1. जिकायतकताध के हस्ट्ताक्षर: हस्ट्ताक्षर ………….. 
+2. ईस वास्ट्तजवक व्यजि का नाम जजसने हस्ट्ताक्षर दकए हैं: (……………….) 
+ सेवा में,  
+ऄजधजनणधयन ऄजधकारी, 
+पेटेंट कायाधलय, 
+…………… 
+नोट -  जो लागू न हो ईसे काट दें। 
+ 
+“प्रपत्र 33” 
+पेटेन्ट ऄजधजनयम, 1970 
+(1970 का 39) 
+तथा 
+पेटेन्ट जनयम, 2003 
+ऄजधजनणधयन ऄजधकारी द्वारा पाररत 
+अदेि के जवरुद्ध ऄपील 
+[धारा 124ख, जनयम 107ङ] 
+1. ऄपीलकताध का जववरण (ऄजनवायध):- 
+क. नाम : 
+ख. सेवा के जलए पता : 
+ग. टेलीफोन नं.: 
+घ. इमेल (सेवा के जलए): 
+ 
+2. ऄजधजनणधयन ऄजधकारी द्वारा पाररत अदेि का जववरण 
+जजसक े जवरुद्ध ऄपील की गइ है:- 
+ 
+क. मामला सं.:  
+ख. अदेि की जतजथ:  
+ग. जववरण के समथधन में साक्ष्य:  
+मैं/हम…………., ऄपीलकताध यह घोषणा करता हाँ/करते हैं दक यहां बताए गए तथ्य मेरी/हमारी सवोत्तम जानकारी, 
+सूचना और जवश्वास के ऄनुसार सही हैं। 
+3. ऄपीलकताध क े  हस्ट्ताक्षर: हस्ट्ताक्षर ………….. 
+4. ईस वास्ट्तजवक व्यजि का नाम जजसने हस्ट्ताक्षर दकए हैं: (……………….) 
+ सेवा में,  
+ऄपीलीय प्राजधकारी, 
+…………… 
+ 
+नोट -  जो लागू न हो ईसे काट दें।” 
+[फा. सं. पी-24031/13/2020-अइपीअर-III] 
+जहमानी पाण् डे, संयुि सजचव 
+
+--- Page 9 ---
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण  9 
+ 
+नोट : मूल जनयम भारत के राजपत्र, ऄसाधारण, भाग- II, खंड 3, ईप-खंड (ii)  में का.अ. 493(ऄ) ददनांक 2 मइ, 2003 
+के जररए प्रकाजित दकए गए थे और ऄंजतम संिोधन ददनांक 21 जसतम् बर, 2021 की ऄजधसूचना सं. सा.का.जन.  
+646(ऄ) द्वारा दकया गया था। 
+ 
+ 
+MINISTRY OF COMMERCE AND INDUSTRY 
+(Department for Promotion of Industry and Internal Trade) 
+NOTIFICATION 
+New Delhi, the 2nd January, 2024 
+G.S.R. 08(E).—The following draft rules to further amend the Pate nts Rules, 2003 which the Central 
+Government proposes to make in exercise of the powers conferred by section 159 of the Patents Act, 1970, are hereby 
+published as required by sub -section (3) of the said section for the information of all persons likely to be affected 
+thereby, and notice is hereby given that the said draft rules will be taken into consideration after the expiry of a period 
+of thirty days from the date on which copies of the Gazette of India, in which this notification is published, are made 
+available to the public; 
+Objections or suggestions, if any, may be addressed to the Secretary, Department for Promotion of Industry 
+and Internal Trade, Ministry of Commerce and Industry, Government of India, Vanijya Bhawan, New Delhi - 110001 
+or by e-mail at ipr4-dipp@nic.in; 
+The objections and suggestions, which may be received from any person with respect to the said draft rules 
+before the expiry of the period so specified, will be considered by the Central Government.  
+DRAFT RULES 
+1. Short title and commencement. 
+ (1) These rules may be called the draft Patents (2nd Amendment) Rules, 2024.  
+ (2) They shall come into force on the date of their publication in the Official Gazette.   
+2. Definitions.—In these rules, unless the context otherwise requires, the following shall be inserted, namely, — 
+ (aa) "Adjudicating Officer" means an officer appointed in accordance with Section 124A of the Act;  
+ (aab) “appellant” means an aggrieved person who prefers an appeal  before the Appellate Authority in 
+accordance with Section 124B of the Act against the order of an Adjudicating Officer;  
+ (aac) "Appellate Authority " means an officer appointed in accordance with Section 124B of the Act;  
+ (aad) All types of communication ma de in the Chapter XIV will be deemed to be communicated electronically. 
+Provided that the means of communication will be text message or email; 
+ (aae) “Complainant” means an aggrieved person who makes a complaint before the Adjudicating Officer;  
+3. In the principal rules, after rule 107, the following shall be inserted, namely, — 
+“CHAPTER XIVA 
+ADJUDICATION OF CERTAIN PENALTIES 
+107A. Adj udication of certain penalties. — (1) Any person may file a complaint under Form  32 to the 
+Adjudicating officer regarding any c ontravention or default committed by any person of the provisions 
+contained in sections 120, 122, or 123 of the Act. 
+(2)The complaint shall be accompanied with a statement setting out the facts upon which the Applicant relies 
+and evidence in support of the statement, as prescribed.  
+107B.  Appointment of Adjudicating officer: (1). The Controller, by an order, authorize an officer referred to in 
+section 73, to be an Adjudicating officer for holding an inquiry and imposing penalty on any person who has 
+committed the contravention or default under the provisions contained in sections 120, 122, or 123 of the Act.  
+(2). Where more than one Adjudicating officer are appointed, the complaint filed by the Complainant(s) will 
+be automatically and randomly allocated by computer resource system to the Adjudicating Officer. 
+(3). Every Adjudicating officer shall have the powers of a civil court, namely: 
+
+--- Page 10 ---
+10  THE GAZETTE OF INDIA : EXTRAORDINARY    [PART II—SEC. 3(i)] 
+ 
+(a) enforcing the attendance of witnesses and compelling the production of documents and material 
+objects; and 
+(b) Adjudicating Of ficer shall be deemed to be a public servant under section 21 of the Indian Penal 
+Code, 1860. 
+107C. Summary Proceedings when case is not made out. — (1) Where the Adjudicating officer is satisfied 
+that a prima facie  case for the maintainability of the Comp laint has not been made out under rule 107C, the 
+Adjudicating officer shall quash and dismiss the complaint summarily and pass speaking order within a period 
+of one month. 
+107D. Summary Pro ceedings when case is made out. —Where the Adjudicating officer is  satisfied that a 
+prima facie case for the maintainability of the Complaint has been made out within a period of one month; 
+commence the proceedings via: 
+(a) Service of Notice to alleged Violator  Adjudicating officer shall serve a copy of th e notice to the 
+alleged violator within a period of one month from the date of the commission of alleged contravention. A 
+copy of the complaint shall be served to the person who has allegedly committed violation defined under 
+rule 107A(1) within a period o f one week. Where it is not practicable so to do on the ground of 
+exceptional and extraordinary circumstances, the complaint shall be sent by registered post.  
+Provided that the service of Notice under this sub-rule shall be made at the expenses of the Complainant 
+(b) Written Submissions by the Opposite Party On receiving a copy of the Complaint, the person who has 
+allegedly committed violation, shall file his statement under Form No 14 within a period of fifteen days 
+from the date of issuance of notic e, setting out the facts upon which he relies and evidence in support of 
+the statement, from the date of service of the complaint by the complainant.  
+(c) Manner of Holding Inquiry  (1) T he Adjudicating officer shall issue a notice to  the person who has 
+allegedly committed violation under the Act, requiring that person to show cause, upon the maintainability 
+of the complaint setting forth the decision thereon. No Adjudicating officer shall hold an enquiry except 
+upon a complaint in writing made by any office r authorized by a general or special order. The final order 
+shall be passed by the Adjudicating officer, within a period of three months for reasons to be recorded in 
+writing. 
+Provided that every notice issued under this sub -rule, shall clearly indicate th e nature of breach or non -
+compliance alleged to have been committed by that person, as the case may be.  
+(2) While adjudging the quantum of compensation under this Act, the adjudicating officer shall have due 
+regard to the following factors, namely: —  
+(a) the amount of gain of unfair advantage, wherever quantifiable, made as a result of the default;  
+(b) the amount of loss caused to any person as a result of the default;  
+(c) the repetitive nature of the default. 
+(d) Extension of time period  
+(1) The Adjudi cating officer may, for reasons to be recorded in writing, extend the further period not 
+exceeding fifteen days, if the said person satisfies the Adjudicating officer that it has sufficient cause for 
+not responding to the notice within the stipulated perio d, only upon the payment of costs under Section 
+35B of Code of Civil Procedure, 1908. The Adjudicating Officer shall hear the parties and pass a speaking 
+order thereon. 
+(2) If, after considering the cause, if any, shown by such person, the Adjudicating officer is of the opinion 
+that an inquiry should be held, the Adjudicating officer shall issue a notice fixing a date for the appearance 
+of such person. The said person may appear either in person or take the assistance of a legal practitioner r 
+for presenting his case before the Adjudicating Authority. 
+(3) On the date fixed for hearing and after giving a reasonable opportunity of being heard to the person(s) 
+concerned, the Adjudicating officer may, subject to reasons to be recorded in writing, pass any order a s 
+he/she thinks fit including an order for adjournment of the hearing to a future date  by payment of 
+prescribed fee by such person. 
+(4) The Adjudicating officer shall, after giving the person referred to in sub -rule (1) above, a reasonable 
+opportunity for hearing in the matter and if, on such inquiry, the Adjudicating officer is satisfied that the 
+person has committed the contravention, the Adjudicating officer may impose such penalty or award such 
+compensation as the Adjudicating officer thinks fit within three months. 
+
+--- Page 11 ---
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण  11 
+ 
+(5) While holding an inquiry, the Adjudicating officer shall have the following powers, namely: - (a) to 
+summon and enforce the attendance of any person acquainted with the facts and circumstances of the case; 
+(b) to order for evidence or to produce any document, which in the opinion of the Adjudicating officer, 
+may be useful for or relevant to the subject matter of the inquiry. 
+(6) If any person fails, neglects or refuses to appear as required under sub -rule (1) before the Adjudicating 
+officer, the Adjudicating officer may proceed with the inquiry in the absence of such person after 
+recording the reasons for doing. 
+(7) Every order passed under sub-rule (4), shall be dated and signed by the Adjudicating officer. 
+(8) The Adjudicating officer sha ll send a copy of the order passed by it to the concerned person who is in 
+default and to the Controller. 
+(9) All sums realized by way of penalties under the Act shall be credited to the Consolidated Fund of 
+India. 
+107E.  F orm and Manner of preferring Appeal. — (1) Any person aggrieved by an order passed by the 
+Adjudicating officer under section 124A may prefer an appeal under Form 33 to the Appellate Authority, who 
+shall be an officer at least one rank above the Adjudicating officer, within a period of six ty days from the date of 
+receipt of the order.  
+Provided that the Appellate Authority  may, if he/she is satisfied that the Appellant was prevented by 
+sufficient cause from presenting the appeal within the aforesaid period of sixty days, the Appellate Authority 
+may condone the delay and allow it to be presented within a further period of not more than thirty days with 
+prescribed fee. 
+(2). The Appeal to the Appellate authority shall be in the prescribed form; setting forth the grounds of 
+appeal and shall be a ccompanied by a certified copy of the order against which the appeal is sought . The 
+appeal shall be allocated by computer resource system.  
+(3). The grounds of appeal and the form of verification shall be signed by the Appellant.  
+Provided that where the pa rty is represented by an authorised representative, a copy of such authorisation 
+in favour of the representative and the written consent thereto by such authorised representative shall also 
+be appended to the appeal: 
+Provided further that the appeal shall not seek relief(s) therein, against more than one order unless the 
+reliefs prayed for are consequential. 
+(4) The allocation of appeals will be in consonance with the automatic and randomly allocated software 
+system. 
+(5) Every appeal shall be accompanied on  the payment of Rupees five thousand to be paid through the 
+online portal in favour of the Appellate Authority. 
+107F. Registration of appeal. — (1) On the receipt of an appeal, the Appellate Authority shall endorse the date 
+on such appeal and shall sign such endorsement.  
+(2) If, on scrutiny, the appeal is found to be in order, it shall be duly registered and given a serial number:  
+ Provided that where the appeal is found to be defective, the Appellate Authority may allow the Appellant 
+such time, not being less  than fourteen days following the date of receipt of intimation by the Appellant 
+from the Appellate Authority  about the nature of the defects, to rectify the defects and if the Appellant 
+fails to rectify such defects within the time period allowed as above , the Appellate Authority may by order 
+and for reasons to be recorded in writing, decline to register such appeal and communicate such refusal to 
+the Appellant within a period of seven days thereof:  
+Provided further that the Appellate Authority may, for reasons to be recorded in writing, extend the period 
+referred to in the first proviso above by a further period of fourteen days if an Appellant satisfies the 
+Appellant Authority that the Appellant had sufficient cause for not rectifying the defects within the period 
+of fourteen days referred to in the first proviso. 
+107G. Disposal of appeal by Appellate Authority. - (1) On the admission of the appeal, the Appellate Authority 
+shall serve a copy of appeal upon the Adjudicating officer against whose order the appeal is sought along-with a 
+notice requiring such Adjudicating Officer to file his reply thereto within such period, not exceeding twenty -one 
+days, as may be stipulated by the Appellate Authority in the said notice:  
+Provided that the Appellate Authority  may, for reasons to be recorded in writing, extend the period 
+referred to in sub -rule (1) above for a further period of twenty -one days, if the Appellant satisfies the Appellate 
+
+--- Page 12 ---
+12  THE GAZETTE OF INDIA : EXTRAORDINARY    [PART II—SEC. 3(i)] 
+ 
+Authority that he had sufficient cause for not being able to file his reply t o the appeal within the above -said 
+period of twenty-one days. 
+(2) A copy of every reply, application or written representation filed by the Appellant before the Appellate 
+Authority shall be forthwith served to the opposite party through electronic modes of  communication. 
+(3) The Appellate Authority shall notify the parties, the date of hearing of the appeal which shall not be a 
+date earlier than thirty days following the date of such notification for hearing the appeal.  
+(4) On the date fixed for hearing, t he Appellate Authority may, subject to the reasons to be recorded in 
+writing, pass any order as he thinks fit including an order for adjournment of the hearing to a future date 
+subject to the payment of prescribed fees. 
+107H. Procedure in appeal. - (1) The Appellate Authority shall give an opportunity to the Appellant to be heard 
+as per the principles of natural justice. 
+(2)   The Appellate Authority may, at the time of hearing of an appeal, allow the Appellant to go into any 
+ground of appeal not specified in the grounds of appeal, if the Appellate Authority  is satisfied that the 
+omission of that ground from the grounds of appeal was not wilful or unreasonable.  
+(3)   The Appellate Authority  shall, after making such further inquiry as may be necessary, pass s uch 
+order, as he thinks just and proper, — 
+a) confirming, modifying or annulling the decision or order appealed against; or  
+b) referring the matter back to the Adjudicating officer with directions for fresh adjudication or 
+decision, as the case may be, where an order or decision has been passed without following the 
+principles of natural justice;  
+Provided that an order enhancing any penalty or fine shall not be passed unless the Appellant has been 
+given a reasonable opportunity of showing cause against the proposed order.        
+(4)    The order of the Appellate Authority disposing of the appeal shall be in writing by giving a reasoned 
+order and shall state the points for determination, the decision thereon and the reasons for the decision.   
+(5) The Appellate Authori ty shall, where it is possible to do so, hear and decide every appeal within a 
+period of six months from the date on which it is filed. 
+(6) The Appellate Authority may, if sufficient cause is shown at any stage of hearing of an appeal, grant 
+time, from time to  time, to the parties or any of them and adjourn the hearing of the appeal for reasons to 
+be recorded in writing: 
+Provided that no such adjournment shall be granted not more than one time, with prescribed fee, to a party 
+during hearing of the appeal.               
+Provided further that not more than two additional adjournments shall be granted more than one time to a 
+party during hearing of the appeal with prescribed fee. 
+(7) In case the Appellant or the opposite party does not appear on the date fixed for hear ing, the Appellate 
+Authority may dispose of the appeal ex-parte:  
+Provided that where the Appellant appears afterwards and satisfies the Appellate Authority that there was 
+sufficient cause for his nonappearance, the Appellate Authority may make an order se tting aside the ex-
+parte order and restore the appeal not beyond 1 year. 
+(8)   On the disposal of the appeal, the Appellate Authority shall communicate the reasoned order passed 
+by him to the Appellant and to the opposite party.  
+(a) The order of Appellate Aut hority shall be in writing and shall state briefly the grounds for the 
+decision.  
+(b) The order referred to in sub -rule (1) shall be dated and signed by the Appellate Authority hearing 
+the appeal.  
+(9) A certified copy of every order passed by the Appellate Au thority shall be communicated to the 
+Adjudicating officer, Appellant, opposite party forthwith and to the Central Government.  
+
+--- Page 13 ---
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण  13 
+ 
+4. In the principal rules, in the FIRST SCHEDULE, after entry 58, the following entries shall be inserted, namely:  
+“59. Complaint for contravention or default 
+of sections 120, 122, or 123 
+32 10,000 50,000 Not 
+allowed 
+Not 
+allowed 
+60. Appeal against an order passed by the 
+adjudicating officer 
+33 10,000 50,000 Not 
+allowed 
+Not 
+allowed 
+5. In the principal rules, in the SECOND SCHEDULE, in the  LIST OF FORMS, after „Form No. 31‟, the following 
+shall be inserted, namely: 
+“32. Section 124A, rule 107A Complaint for contravention or default of 
+sections 120, 122, or 123. 
+33. Appeal against an order passed by the adjudicating officer Section 124B, rule 107E. 
+6. In the principal rules, in the SECOND SCHEDULE, for Form 14, the following form shall be substituted, 
+namely: 
+“FORM 14 
+THE PATENTS ACT, 1970 
+(39 of 1970) 
+& 
+THE PATENTS RULES, 2003 
+NOTICE OF OPPOSITION TO AMENDMENT/RESTORATION / SURRENDER OF PATEN T/GRANT OF 
+COMPULSORY LICENCE OR REVISION OF TERMS THEREOF OR TO CORRECTION OF CLERICAL 
+ERRORS / COMPLAINT OF CONTRAVENTION OR DEFAULT 
+[See sections 57(4), 61(1), 63(3), 78(5) and 87(2), 120, 122, 123; rules 81(3)(b), 85(1), 87(2), 98(1), 101(3), 124, 
+107D] 
+1. State the name, address 
+and nationality. 
+I, We1 ………………………………. 
+……………………………………… 
+……………………………………… 
+……………………………………… 
+ 
+hereby give notice of opposition: -  
+to the amendment of the application/ specification with respect to application 
+for Patent No…………. dated……… 
+OR 
+to the application for restoration of Patent No. ……… dated……. 
+OR 
+to the offer to surrender the Patent No…………dated……… 
+OR 
+for the grant of compulsory licence, or revocation of Patent No………. 
+dated……… 
+OR 
+for the revision of the terms and conditions of lice nce in respect of Patent 
+No………dated………. 
+OR 
+for correction of a clerical error in Patent No………dated……. /Specification 
+No………. dated…….in respect of Patent No………dated……. or Patent 
+application No………dated……. 
+OR 
+to the Complaint made in FORM 31 
+ 
+The grounds in which the said opposition is made are as follows:  
+……………………………………….. 
+……………………………………….. 
+ 
+
+--- Page 14 ---
+14  THE GAZETTE OF INDIA : EXTRAORDINARY    [PART II—SEC. 3(i)] 
+ 
+My/ Our address for service in India is:2  
+………………………………………... 
+………………………………………... 
+ 
+Dated this ………. day of ………20 
+2. Complete address 
+including postal index 
+number/ code and state 
+along with Telephone and 
+fax number(s). 
+ 
+           Signature. 3 ………………... 
+                 (…………………...)4 
+3. To be signed by the 
+opponent 
+ 
+4. Name of the natural 
+person who has signed 
+   To 
+          The Controller of Patents, 
+          The Patent Office, 
+          At………... 
+____________________________________________________________  
+Note. - (a) Strike out whichever is not applicable. 
+(b) For fee: See First Schedule.” 
+____________________________________________________________  
+7. In the principal rules, in the SECOND SCHEDULE, after Form 31, the following forms shall be inserted, namely:  
+“FORM 32 
+THE PATENTS ACT, 1970 
+(39 OF 1970) 
+& 
+THE PATENTS RULES, 2003 
+COMPLAINT FOR CONTRAVENTION OR DEFAULT OF SECTIONS 120, 122, OR 123  
+[See section 124A, rule 107A] 
+1. Particulars of Complainant (mandatory):-  
+a. Name: 
+b. Address for service: 
+c. Contact no.: 
+d. Email (for service): 
+ 
+2. Particulars of Complaint:-   
+a. Date, time, and instance of commission of the alleged 
+contravention or default: 
+ 
+b. Statement of contravention or default sett ing out all 
+relevant material particulars: 
+ 
+c. Evidence in support of the statement:  
+I/We…………., the Complainant herein declare that the facts stated herein are correct to the best of my/our 
+knowledge, information and belief. 
+3. Signature of the Complainant: Signature ………….. 
+4. Name of the natural person who has signed: (……………….) 
+ To,  
+The Adjudicating Officer, 
+The Patent Office, 
+at …………… 
+Note. - Strike out whichever is not applicable. 
+ 
+
+--- Page 15 ---
+[भाग II—खण् ड 3(i)] भारत का राजपत्र : ऄसाधारण  15 
+ 
+“FORM 33 
+THE PATENTS ACT, 1970 
+(39 OF 1970) 
+& 
+THE PATENTS RULES, 2003 
+APPEAL AGAINST AN ORDER PASSED BY THE ADJUDICATING OFFICER  
+[Section 124B, rule 107E] 
+1. Particulars of Appellant (mandatory):-  
+a. Name: 
+b. Address for service: 
+c. Contact no.: 
+d. Email (for service): 
+ 
+2. Particulars of Order passed by the adjudicating officer 
+against which the appeal is preferred: -  
+ 
+a. Case No.:  
+b. Date of Order:  
+c. Evidence in support of the statement:  
+I/We………….., the Appellant herein declare that the facts stated herein are correct to the best of my/our knowledge, 
+information and belief. 
+3. Signature of the Appellant: Signature ………….. 
+4. Name of the natural person who has signed: (……………….) 
+ To,  
+The Appellate Authority, 
+at …………… 
+Note.- Strike out whichever is not applicable.” 
+[F. No. P-24031/13/2020-IPR-III] 
+HIMANI PANDE, Jt. Secy. 
+Note : The principal rules were published in the Gazette of India, Extraordinary, Part-II, Section 3, Sub- Section (ii) vide 
+number S.O. 493 (E) dated the 2nd May, 2003 and last amended vide notification  number G .S.R. 646(E) dated 
+the 21st September, 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054.  

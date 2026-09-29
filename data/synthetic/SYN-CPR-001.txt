@@ -1,0 +1,23 @@
+TITLE: Copyright Ownership in Digitized Ayurvedic Texts and Databases
+AUTHORITY: IP-SAKTI Synthetic Copyright Office
+JURISDICTION: India
+DOMAIN: Copyright
+DOCUMENT_TYPE: Guidance
+EFFECTIVE_DATE: 2024-11-12
+SOURCE_URL: synthetic://copyright-office/ayurveda-digitization-2024
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+COPYRIGHT IN ANCIENT KNOWLEDGE & MODERN TRANSLATIONS
+
+Section 1. Public Domain Status of Ancient Texts
+Classical Ayurvedic scriptures including Charaka Samhita, Sushruta Samhita, and Bhaisajya Ratnavali are ancient public domain texts. No copyright exists in the original Sanskrit verses or traditional medicinal formulations.
+
+Section 2. Copyright in Original Translations and Compilations
+Copyright under Section 13 of the Copyright Act, 1957 subsists in:
+(a) Original modern language translations (e.g. English, Hindi, Tamil translations) where skill and labor are involved.
+(b) Original digital databases, annotated compilations, and structural software representations such as the Traditional Knowledge Digital Library (TKDL) layout.
+
+Section 3. Fair Dealing for Research & Traditional Practitioners
+Extracting classical recipes from modern compilations for non-commercial academic research, medical practice, or educational purposes constitutes fair dealing under Section 52(1)(a).

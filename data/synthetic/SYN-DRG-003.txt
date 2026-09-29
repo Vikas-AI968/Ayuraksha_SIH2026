@@ -1,0 +1,27 @@
+TITLE: Comparative Matrix for Phytopharmaceutical, Ayurveda-Aahar, and Cosmetic Classification
+AUTHORITY: IP-SAKTI Synthetic AYUSH & FSSAI Joint Licensing Authority
+JURISDICTION: India
+DOMAIN: Drug Classification
+DOCUMENT_TYPE: Guidance
+EFFECTIVE_DATE: 2025-07-01
+SOURCE_URL: synthetic://ayush-fssai/drug-food-classification-2025
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+INTER-CATEGORY CLASSIFICATION MATRIX FOR AYURVEDIC PRODUCTS
+
+Category 1: Phytopharmaceutical Drug
+- Governed by Central Drugs Standard Control Organization (CDSCO) under Drugs & Cosmetics Rules.
+- Requires standardized fraction, chemical marker identification, phase I-III clinical trial safety data.
+
+Category 2: Ayurveda-Aahar (Ayurvedic Food Product)
+- Governed by FSSAI under Food Safety and Standards (Ayurveda Aahar) Regulations, 2022.
+- Intended strictly for dietary consumption and health maintenance, NOT for therapeutic cure of disease.
+- Excludes Schedule E(1) toxic plants and pure synthetic chemical additions.
+
+Category 3: Ayurvedic Cosmetic
+- Topically applied formulations for beautifying or cleansing. Cannot claim systemic medicinal healing.
+
+Category 4: Unknown / Insufficient Information
+- Formulations lacking clear ingredient specification or intended mode of administration shall be quarantined as 'Unknown/Insufficient' until verified by the Expert Classification Committee.

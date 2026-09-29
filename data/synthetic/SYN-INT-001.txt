@@ -1,0 +1,21 @@
+TITLE: TRIPS Agreement Compliance and Traditional Knowledge Exceptions
+AUTHORITY: IP-SAKTI Synthetic WIPO & WTO Desk
+JURISDICTION: International
+DOMAIN: Patents
+DOCUMENT_TYPE: Treaty
+EFFECTIVE_DATE: 2024-01-01
+SOURCE_URL: synthetic://wto-wipo/trips-tk-exceptions-2024
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+WTO TRIPS AGREEMENT & TRADITIONAL KNOWLEDGE PROVISIONS
+
+Article 27. Patentable Subject Matter
+Members shall provide patents for any inventions, whether products or processes, in all fields of technology, provided they are new, involve an inventive step, and are capable of industrial application.
+
+Article 27.3(b). Plant Variety and Biological Exclusions
+Members may exclude from patentability plants and animals other than micro-organisms, and essentially biological processes for the production of plants or animals. Members shall provide for the protection of plant varieties either by patents or by an effective sui generis system.
+
+Article 8. Public Health & Flexibility
+Members may adopt measures necessary to protect public health and nutrition, and to promote the public interest in sectors of vital importance to their socio-economic and technological development, provided such measures are consistent with TRIPS.

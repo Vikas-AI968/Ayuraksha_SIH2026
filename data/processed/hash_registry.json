@@ -1,0 +1,32 @@
+{
+  "IPINDIA-PATENTS-ACT-1970": {
+    "doc_hash": "a9091b10495cd9694de7366599a4e0c97ea2a896f4222712e1332e74d686df37",
+    "version": "official-consolidated-download",
+    "effective_date": "unknown"
+  },
+  "IPINDIA-PATENT-RULES-SECOND-AMENDMENT-2024": {
+    "doc_hash": "7f5e4f2a1cd77a7bbf422e2f761c089466a7fc5c846c32fb9d822c26a43f9be6",
+    "version": "2024-03-16",
+    "effective_date": "2024-03-16"
+  },
+  "IPINDIA-PATENT-RULES-DRAFT-SECOND-AMENDMENT-2024": {
+    "doc_hash": "7f5e4f2a1cd77a7bbf422e2f761c089466a7fc5c846c32fb9d822c26a43f9be6",
+    "version": "2024-01-03",
+    "effective_date": "2024-01-03"
+  },
+  "IPINDIA-GUIDELINES-GENAI-PATENT-EXAMINATION-2026": {
+    "doc_hash": "56471bbcc36e734bbd744afce180fd021d1f638ee2781c63da2bea015b525104",
+    "version": "2026-08-07",
+    "effective_date": "2026-08-07"
+  },
+  "WIPO-TECHNICAL-STUDY-GRTK-2004": {
+    "doc_hash": "c28d4ef5c57045b632fb5daacbd14ac09063b006ce1bf7e237c6ed2881fe563e",
+    "version": "WIPO Publication 786",
+    "effective_date": "2004-01-01"
+  },
+  "WIPO-GRTK-DIPLOMATIC-CONFERENCE-EXPLAINER-2024": {
+    "doc_hash": "fd4be4ca5110b4bd1f8d1734cf579d3d697c82ce9aa32566f00cefcf7ec2d115",
+    "version": "2024-05",
+    "effective_date": "2024-05-01"
+  }
+}

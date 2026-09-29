@@ -1,0 +1,18 @@
+TITLE: Hague Agreement Concerning International Registration of Industrial Designs
+AUTHORITY: IP-SAKTI Synthetic WIPO Hague Registry
+JURISDICTION: International
+DOMAIN: Designs
+DOCUMENT_TYPE: Treaty
+EFFECTIVE_DATE: 2024-07-01
+SOURCE_URL: synthetic://wipo/hague-system-designs-2024
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+HAGUE SYSTEM FOR INTERNATIONAL INDUSTRIAL DESIGNS
+
+Article 1. Single Filing Mechanism
+Designers of novel Ayurvedic container bottles, applicators, and eco-friendly packaging can file a single international design application under the Hague Agreement to secure design protection in up to 90 member territories.
+
+Article 2. Examination by Contracting Parties
+Each designated country reviews the application under its domestic design law for novelty and non-functionality within 6 to 12 months.

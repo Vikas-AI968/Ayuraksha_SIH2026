@@ -1,0 +1,15 @@
+TITLE: Medical Devices Quality Management System Standard (Distractor Document)
+AUTHORITY: IP-SAKTI Synthetic Medical Device Bureau
+JURISDICTION: India
+DOMAIN: Drug Classification
+DOCUMENT_TYPE: Rule
+EFFECTIVE_DATE: 2025-05-01
+SOURCE_URL: synthetic://med-device/qms-standard-2025
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+MEDICAL DEVICE QUALITY STANDARDS (NON-HERBAL DISTRACTOR)
+
+Section 1. Class C Electro-Mechanical Surgical Scopes
+This document specifies calibration standards for X-ray equipment, MRI imaging software, and titanium surgical orthopedic implants. It does NOT cover Ayurvedic herbal preparations, biological resources, or patentability of traditional knowledge.

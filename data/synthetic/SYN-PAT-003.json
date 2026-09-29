@@ -1,0 +1,13 @@
+{
+  "document_id": "SYN-PAT-003",
+  "title": "Legal Precedents on Section 3(p) and Traditional Knowledge Invalidation",
+  "authority": "IP-SAKTI Synthetic Patent Appellate Board",
+  "jurisdiction": "India",
+  "domain": "Patents",
+  "document_type": "Guidance",
+  "effective_date": "2025-11-05",
+  "source_url": "synthetic://patent-board/section-3p-precedents-2025",
+  "source_type": "synthetic",
+  "version": "1.0",
+  "content": "ANALYSIS OF SECTION 3(p) OBJECTIONS IN AYURVEDA PATENTS\n\nKey Holding:\nWhere an applicant claims a formulation containing Curcuma longa (Turmeric) and Zingiber officinale (Ginger) for anti-inflammatory treatment, Section 3(p) operates as an absolute statutory bar if the medicinal properties of both plants for inflammatory disorders are documented in TKDL or Ayurvedic text Charaka Samhita.\n\nTo overcome Section 3(p), the specification must establish:\n1. Synergistic interaction ratio which is non-obvious.\n2. Novel extraction medium yielding a distinct non-obvious bio-active composition.\n3. Comparative experimental evidence showing superior therapeutic outcome over conventional classical decoction."
+}

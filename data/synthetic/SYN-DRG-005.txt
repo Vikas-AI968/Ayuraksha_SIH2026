@@ -1,0 +1,18 @@
+TITLE: Borderline Herbal Products: Cosmetic vs Ayurvedic Drug Criteria
+AUTHORITY: IP-SAKTI Synthetic AYUSH Licensing Committee
+JURISDICTION: India
+DOMAIN: Drug Classification
+DOCUMENT_TYPE: Guidance
+EFFECTIVE_DATE: 2026-02-15
+SOURCE_URL: synthetic://ayush-licensing/cosmetic-vs-drug-2026
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+BORDERLINE PRODUCT EVALUATION: AYURVEDIC MEDICINE VS COSMETIC
+
+Section 1. Primary Intended Use Criterion
+A herbal skin cream containing Neem and Aloe Vera is classified as an Ayurvedic Medicine if its primary claim is therapeutic cure of skin diseases (e.g. eczema, psoriasis) supported by classical texts.
+
+Section 2. Cosmetic Classification
+If the same formulation is advertised solely for moisturizing, improving skin appearance, or cleansing, it must be licensed as a Cosmetic under Schedule Q of Drugs & Cosmetics Rules, and cannot make therapeutic medical claims.

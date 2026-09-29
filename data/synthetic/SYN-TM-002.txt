@@ -1,0 +1,18 @@
+TITLE: Certification Marks and Collective Marks for Certified Ayurvedic Quality
+AUTHORITY: IP-SAKTI Synthetic Trademark Registry
+JURISDICTION: India
+DOMAIN: Trademarks
+DOCUMENT_TYPE: Rule
+EFFECTIVE_DATE: 2024-09-05
+SOURCE_URL: synthetic://tm-registry/certification-marks-ayurveda-2024
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+CERTIFICATION MARKS AND AYUSH MARK REGULATION
+
+Section 1. AYUSH Premium Mark Certification
+The AYUSH Mark is a certified quality mark issued to herbal drug manufacturers complying with WHO Good Manufacturing Practices (GMP) and heavy metal residue limits.
+
+Section 2. Collective Trademarks for Cooperative Societies
+Associations of traditional herbal harvesters may register collective marks under Section 61 of the Trade Marks Act, 1999 to distinguish cooperative products from commercial counterfeits.

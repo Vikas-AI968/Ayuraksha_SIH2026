@@ -1,0 +1,23 @@
+TITLE: Traditional Knowledge Protection and TKDL Prior Art Verification Guidelines
+AUTHORITY: IP-SAKTI Synthetic Traditional Knowledge Authority
+JURISDICTION: India
+DOMAIN: Traditional Knowledge
+DOCUMENT_TYPE: Act
+EFFECTIVE_DATE: 2025-08-01
+SOURCE_URL: synthetic://tk-authority/protection-guidelines-2025
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+FRAMEWORK FOR PROTECTION OF TRADITIONAL KNOWLEDGE (TK)
+
+Section 1. Definition of Traditional Knowledge
+Traditional Knowledge encompasses indigenous wisdom, innovations, practices, and medicinal formulation knowledge passed down across generations within traditional practitioner communities in India.
+
+Section 2. Preventive TK Protection & TKDL Search
+To prevent bio-piracy and wrongful patenting of traditional Indian medicine abroad or domestically:
+(a) The Traditional Knowledge Digital Library (TKDL) converts ancient Sanskrit, Arabic, Persian, Tamil, and Unani texts into international patent classification (IPC) standards.
+(b) Any patent claim matching TKDL prior art entries for the same therapeutic indication shall be deemed anticipated and unpatentable.
+
+Section 3. Defensive vs Positive TK Protection
+Positive protection grants local communities sovereign control and benefit-sharing rights over commercial utilization of local medicinal formulations, while defensive protection uses TKDL to invalidate illegal foreign patent claims.

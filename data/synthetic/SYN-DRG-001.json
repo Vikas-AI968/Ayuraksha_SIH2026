@@ -1,0 +1,13 @@
+{
+  "document_id": "SYN-DRG-001",
+  "title": "Regulatory Standard for Classical Ayurvedic Medicine Classification",
+  "authority": "IP-SAKTI Synthetic AYUSH Drug Controller",
+  "jurisdiction": "India",
+  "domain": "Drug Classification",
+  "document_type": "Rule",
+  "effective_date": "2025-04-01",
+  "source_url": "synthetic://ayush-controller/classical-medicine-rules-2025",
+  "source_type": "synthetic",
+  "version": "1.0",
+  "content": "DRUGS AND COSMETICS ACT: CLASSICAL AYURVEDIC MEDICINES\n\nSection 1. Definition of Classical Medicine\nUnder Section 3(a) of the Drugs and Cosmetics Act, 1940, a Classical Ayurvedic Medicine is defined as a formulation manufactured strictly according to the authoritative books and recipe texts specified in the First Schedule of the Act (including Ayurvedic Pharmacopoeia of India, Charaka Samhita, Sharangdhara Samhita).\n\nSection 2. Manufacturing Licensing Requirements\nClassical medicines do not require clinical trial safety trials for initial manufacturing license, provided manufacturing adheres strictly to Good Manufacturing Practices (GMP) under Schedule T and specified textual ingredients.\n\nSection 3. Labeling and Claim Restrictions\nClassical medicines must display classical scriptural reference name and cannot claim instant miraculous cure rights prohibited under the Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954."
+}

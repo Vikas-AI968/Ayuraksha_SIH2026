@@ -1,0 +1,13 @@
+{
+  "document_id": "SYN-DRG-004",
+  "title": "CDSCO Regulatory Guidelines for Phytopharmaceutical Drug Approval",
+  "authority": "IP-SAKTI Synthetic CDSCO",
+  "jurisdiction": "India",
+  "domain": "Drug Classification",
+  "document_type": "Rule",
+  "effective_date": "2025-10-10",
+  "source_url": "synthetic://cdsco/phytopharmaceutical-rules-2025",
+  "source_type": "synthetic",
+  "version": "1.0",
+  "content": "CDSCO REGULATION OF PHYTOPHARMACEUTICAL DRUGS\n\nSection 1. Submission Requirements (Appendix XIII)\nAn application for manufacturing or importing a Phytopharmaceutical drug must include:\n1. High-Performance Liquid Chromatography (HPLC) / Mass Spectrometry fingerprinting of 4 active chemical markers.\n2. Acute and sub-acute animal toxicity data.\n3. Human Phase I safety and Phase II/III clinical trial protocols approved by the Central Licensing Authority."
+}

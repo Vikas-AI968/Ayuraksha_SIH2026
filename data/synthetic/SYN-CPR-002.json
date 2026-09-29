@@ -1,0 +1,13 @@
+{
+  "document_id": "SYN-CPR-002",
+  "title": "TKDL Access Agreement and Intellectual Property Conditions",
+  "authority": "IP-SAKTI Synthetic CSIR & TKDL Unit",
+  "jurisdiction": "India",
+  "domain": "Copyright",
+  "document_type": "Rule",
+  "effective_date": "2025-02-14",
+  "source_url": "synthetic://csir-tkdl/access-agreement-2025",
+  "source_type": "synthetic",
+  "version": "1.0",
+  "content": "TRADITIONAL KNOWLEDGE DIGITAL LIBRARY (TKDL) ACCESS TERMS\n\nClause 1. Confidential Access for Patent Offices\nInternational Patent Offices (such as EPO, USPTO, JPO, IPO) access TKDL under non-disclosure agreements strictly for patent examination and prior art verification purposes.\n\nClause 2. Prohibition on Public Redistribution\nThe TKDL database structure, translation glossaries, and digitised IPC index codes are protected under Indian Copyright law. Third-party commercial scraping or public distribution without CSIR authorization is strictly prohibited."
+}

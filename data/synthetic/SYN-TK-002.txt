@@ -1,0 +1,18 @@
+TITLE: Sui Generis Legal Protection Framework for Traditional Medicinal Knowledge
+AUTHORITY: IP-SAKTI Synthetic Traditional Knowledge Authority
+JURISDICTION: India
+DOMAIN: Traditional Knowledge
+DOCUMENT_TYPE: Guidance
+EFFECTIVE_DATE: 2026-01-20
+SOURCE_URL: synthetic://tk-authority/sui-generis-framework-2026
+SOURCE_TYPE: synthetic
+VERSION: 1.0
+
+--- CONTENT ---
+SUI GENERIS LEGISLATION FOR COMMUNITY TRADITIONAL KNOWLEDGE
+
+Section 1. Recognition of Indigenous Community Rights
+Traditional knowledge held by indigenous healers, Vaidyas, and tribal communities is recognized as collective intellectual property belonging to the community rather than private individuals.
+
+Section 2. Royalty and Benefit Sharing Registry
+Commercial entities using community traditional knowledge must register licensing agreements with the National TK Registry and deposit 1% of gross revenue into the Community Biodiversity Fund.

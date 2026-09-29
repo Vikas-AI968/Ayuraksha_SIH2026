@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IP-SAKTI Sahayak — Multilingual RAG for Ayurveda IP & Regulatory Guidance</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <div class="header-content">
+        <h1>IP-SAKTI Sahayak</h1>
+        <p class="subtitle">Multilingual Citation-Grounded AI Assistant for Ayurveda IP & Regulatory Guidance</p>
+        <div class="system-status" id="system-status">
+          <span class="status-dot loading"></span>
+          <span id="backend-status-text">Connecting to backend...</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="main-content">
+      <!-- Input Card -->
+      <section class="card input-card">
+        <div class="form-row controls-row">
+          <div class="form-group">
+            <label for="language-select"><strong>Language:</strong></label>
+            <select id="language-select">
+              <option value="auto">Auto Detect</option>
+              <option value="en">English (en)</option>
+              <option value="hi">Hindi / हिन्दी (hi)</option>
+              <option value="te">Telugu / తెలుగు (te)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="jurisdiction-select"><strong>Jurisdiction:</strong></label>
+            <select id="jurisdiction-select">
+              <option value="auto">Auto Infer</option>
+              <option value="India">India</option>
+              <option value="International">International</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="backend-url"><strong>Backend API:</strong></label>
+            <input type="text" id="backend-url" value="http://127.0.0.1:8000" placeholder="http://127.0.0.1:8000">
+          </div>
+        </div>
+
+        <div class="form-group query-group">
+          <label for="query-input"><strong>Legal or Regulatory Query:</strong></label>
+          <div class="textarea-wrapper">
+            <textarea id="query-input" rows="4" placeholder="Type your query here in English, Hindi, or Telugu..."></textarea>
+            <button type="button" id="stt-btn" class="btn btn-icon" title="Speak Query (STT)">
+              <span id="stt-icon">🎤</span>
+              <span id="stt-label">Speak</span>
+            </button>
+          </div>
+          <div id="stt-status" class="stt-status"></div>
+        </div>
+
+        <div class="sample-queries">
+          <span class="sample-label">Quick Test Queries:</span>
+          <div class="chips">
+            <button type="button" class="chip" data-lang="en" data-query="Can a traditional Ayurvedic formulation be patented in India?">
+              EN: Ayurvedic patentability
+            </button>
+            <button type="button" class="chip" data-lang="hi" data-query="क्या पारंपरिक आयुर्वेदिक ज्ञान का भारत में पेटेंट कराया जा सकता है?">
+              HI: पारंपरिक ज्ञान पेटेंट
+            </button>
+            <button type="button" class="chip" data-lang="te" data-query="సాంప్రదాయ ఆయుర్వేద జ్ఞానానికి భారతదేశంలో పేటెంట్ పొందవచ్చా?">
+              TE: సాంప్రదాయ జ్ఞానం పేటెంట్
+            </button>
+            <button type="button" class="chip" data-lang="en" data-query="What is Section 3(p) of the Patents Act?">
+              EN: Section 3(p)
+            </button>
+            <button type="button" class="chip" data-lang="hi" data-query="पेटेंट अधिनियम की धारा 3(p) क्या है?">
+              HI: धारा 3(p)
+            </button>
+            <button type="button" class="chip" data-lang="te" data-query="పేటెంట్ చట్టంలోని సెక్షన్ 3(p) ఏమిటి?">
+              TE: సెక్షన్ 3(p)
+            </button>
+            <button type="button" class="chip chip-abstain" data-lang="en" data-query="What FSSAI license is required for this product?">
+              Abstention: FSSAI License
+            </button>
+          </div>
+        </div>
+
+        <div class="submit-row">
+          <button type="button" id="submit-btn" class="btn btn-primary">
+            <span id="submit-spinner" class="spinner hidden"></span>
+            <span id="submit-label">Ask IP-SAKTI</span>
+          </button>
+          <button type="button" id="clear-btn" class="btn btn-secondary">Clear</button>
+        </div>
+      </section>
+
+      <!-- Results Area -->
+      <section id="results-card" class="card results-card hidden">
+        <div class="results-header">
+          <div class="header-tags">
+            <span id="status-badge" class="badge">Answered</span>
+            <span id="language-badge" class="badge badge-outline">Language: EN</span>
+            <span id="jurisdiction-badge" class="badge badge-outline">Jurisdiction: India</span>
+          </div>
+          <div class="speech-controls">
+            <button type="button" id="tts-play-btn" class="btn btn-speech" title="Speak Answer (TTS)">
+              🔊 Speak Answer
+            </button>
+            <button type="button" id="tts-stop-btn" class="btn btn-speech btn-stop hidden" title="Stop Speaking">
+              ⏹ Stop
+            </button>
+            <span id="tts-status" class="tts-status"></span>
+          </div>
+        </div>
+
+        <!-- Answer Text -->
+        <div class="answer-section">
+          <h3>Answer</h3>
+          <div id="answer-text" class="answer-content"></div>
+        </div>
+
+        <!-- Key Points -->
+        <div id="key-points-section" class="key-points-section hidden">
+          <h4>Key Legal Points & Citations</h4>
+          <ul id="key-points-list"></ul>
+        </div>
+
+        <!-- Metrics Row (Confidence & Citation Coverage) -->
+        <div class="metrics-grid">
+          <div class="metric-box">
+            <div class="metric-title">Confidence Level</div>
+            <div class="metric-value">
+              <span id="confidence-level" class="confidence-tag">Medium</span>
+              <span id="confidence-score" class="score-sub">0.78</span>
+            </div>
+            <div id="confidence-factors" class="factors-detail"></div>
+          </div>
+
+          <div class="metric-box">
+            <div class="metric-title">Citation Coverage</div>
+            <div class="metric-value">
+              <span id="citation-coverage-pct" class="coverage-number">0%</span>
+            </div>
+            <div class="progress-bar-container">
+              <div id="citation-progress" class="progress-bar-fill" style="width: 0%;"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Warnings / Abstention Reason -->
+        <div id="warnings-section" class="warnings-section hidden">
+          <div class="alert-box">
+            <div class="alert-icon">⚠️</div>
+            <div class="alert-content">
+              <h4>Notices & Cautions</h4>
+              <ul id="warnings-list"></ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Citations List -->
+        <div class="citations-section">
+          <h3>Authoritative Citations (<span id="citations-count">0</span>)</h3>
+          <div id="citations-container" class="citations-list"></div>
+        </div>
+
+        <!-- Evidence Items (Collapsible) -->
+        <div class="evidence-section">
+          <details id="evidence-details">
+            <summary>
+              <strong>Retrieved Supporting Evidence (<span id="evidence-count">0</span> items)</strong>
+              <span class="summary-hint">Click to expand</span>
+            </summary>
+            <div id="evidence-container" class="evidence-list"></div>
+          </details>
+        </div>
+
+        <!-- Disclaimer -->
+        <footer class="legal-disclaimer">
+          <p id="disclaimer-text">
+            IP-SAKTI Sahayak is an information/research assistant, not a lawyer. It does not provide legal advice.
+            Verify against primary authoritative sources.
+          </p>
+        </footer>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <p>IP-SAKTI Sahayak (SIH26045) — Authoritative RAG + Ollama Cloud + Multilingual FastEmbed</p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

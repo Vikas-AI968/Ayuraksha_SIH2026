@@ -1,0 +1,135 @@
+--- Page 1 ---
+Diplomatic 
+Conference on 
+Genetic Resources 
+and Associated 
+Traditional 
+Knowledge
+May 2024
+
+--- Page 2 ---
+What: A final-stage conference where WIPO countries will work to finalize two 
+decades of discussions and forge agreement on an international legal instrument – a 
+treaty, convention or other document - relating to intellectual property, genetic 
+resources, and associated traditional knowledge. 
+Member States reached consensus in July 2022 to move their negotiations to the next 
+level, determining that a Diplomatic Conference should be held in 2024 and that a 
+"Basic Proposal" would serve as the basis for negotiations.
+When: May 13 to 24, 2024 
+Where: WIPO Headquarters in Geneva, Switzerland.
+Who: The negotiators will be official delegates of WIPO’s 193 Member States. 
+Discussions are actively supported by the participation of a wide array of observers, 
+including Indigenous Peoples as well as local communities, non-governmental 
+organizations, intergovernmental organizations, and industry representatives.
+The “Basic Proposal” Core Elements
+Patent disclosure requirement
+Disclosing inventions in detail is a core principle of patent law. Inventors have to 
+explain their invention in sufficient detail so that someone with the same level of 
+knowledge can reproduce the invention. Furthermore, prior art must generally be 
+disclosed to assist patent examiners in assessing whether the invention is truly novel 
+and non-obvious.
+In the context of genetic resources and associated traditional knowledge, the 
+Basic Proposal describes an additional disclosure requirement that would require 
+patent applicants to disclose information on the genetic resources and associated 
+traditional knowledge if the claimed invention is “materially/directly based” on 
+them. The disclosure would comprise the country of origin of the genetic resources 
+and/or the Indigenous Peoples or local community that provided the associated 
+traditional knowledge.
+If such information is unknown, the source of the genetic resources or associated 
+traditional knowledge should be disclosed. If none of the above information is known, 
+the patent applicant should declare so. 
+Some 35 regional organizations and countries already have a requirement along these 
+lines in their regional and national laws. 
+Patent offices would provide certain guidance on how to meet the disclosure 
+requirement and an opportunity to fix a failure to include the minimum information 
+or correct any inaccurate or incorrect disclosures. However, they would have no 
+obligation to verify the authenticity of the disclosure.
+Explainer
+
+--- Page 3 ---
+Information systems
+The Basic Proposal also provides for the voluntary establishment of information systems, such 
+as databases of genetic resources and their associated traditional knowledge, in consultation 
+with Indigenous Peoples and local communities where applicable.
+Genetic resources databases can compile and reference a wide range of information and 
+materials, including, for example, information about genetic resources, associated traditional 
+knowledge, known uses of genetic resources, and relevant scientific compilations. 
+Such systems should be accessible to IP offices for search and examination purposes, 
+with appropriate safeguards developed with Indigenous Peoples and local communities 
+where applicable.
+Other elements of the Basic Proposal
+The Basic Proposal comprises a Preamble and 23 articles, including a description of 
+the objectives, a definition of the terms used, the disclosure requirement, exceptions 
+and limitations, provisions on information systems, and provisions on the exclusion of 
+retroactivity and on sanctions and remedies. The draft text also contains provisions on the 
+relationship with other international agreements, a future review, and so-called ’final and 
+administrative clauses’.
+The full text of the Basic Proposal and an informal summary of it are available at www.wipo.int/
+edocs/mdocs/traditional knowledge/en/gratraditional knowledge_dc/gratraditional knowledg e_
+dc_3.pdf  and
+www.wipo.int/export/sites/www/diplomatic-conferences/en/docs/executive-summary-basic-
+proposal.pdf 
+Background
+The Diplomatic Conference marks the last step in negotiations to conclude a part of the work 
+conducted by the WIPO Intergovernmental Committee on Intellectual Property and Genetic 
+Resources, Traditional Knowledge and Folklore (IGC) established in 2000. Since its inception, the 
+IGC has been working on the relationship between intellectual property, traditional knowledge, 
+traditional cultural expressions and genetic resources. 
+Genetic resources
+Genetic resources are contained in, for example, medicinal plants, agricultural crops, and 
+animal breeds. Some genetic resources are linked to traditional knowledge and traditional 
+practices through their use and conservation by Indigenous Peoples and local communities, 
+often over generations. 
+Formally, genetic resources are defined in the Convention on Biological Diversity (CBD) as 
+genetic material of actual or potential value. The CBD further defines genetic material as any 
+material of plant, animal, microbial, or other origin containing functional units of heredity. The 
+Basic Proposal incorporates these definitions.
+Genetic resources themselves, as encountered in nature, cannot be directly protected as IP 
+because they are not creations of the human mind. However, inventions based on or developed 
+using genetic resources (and associated traditional knowledge) may be eligible for protection 
+through the patent system.
+Intellectual property issues
+One of the IP issues related to genetic resources discussed in the WIPO IGC is the prevention 
+of the erroneous granting of patents for inventions that have been developed using genetic 
+resources and associated traditional knowledge but do not fulfill patentability requirements 
+such as novelty and inventiveness.
+
+--- Page 4 ---
+wipo.int
+© WIPO, 2024 /  Attribution 4.0 International (CC BY 4.0) / The CC license does not apply to non-WIPO content in this publication. 
+Cover: Unsplash/Syd Sujuaan, Eduardo Prim, Vlad Hilitanu, Nathan Dumlao, James Wainscoat / WIPO Reference RN2024-22EN; DOI: 10.34667/tind.49278
+Preventing erroneous patents is referred to as a form of ’defensive protection’. Some countries 
+have adopted policies, mechanisms, and measures aimed at the defensive protection of genetic 
+resources, such as databases and other information systems, to help patent examiners find 
+relevant prior art.
+Several regional organizations and countries, seeking to avoid the erroneous granting of 
+patents, have also established new disclosure requirements as part of their patent filing 
+and examination process. There are, however, no common international standards to 
+harmonize such provisions, and countries are therefore taking a wide range of approaches for 
+such measures.
+One of the core elements of the potential treaty is a mandatory disclosure requirement in 
+patent applications for inventions based on genetic resources and associated traditional 
+knowledge under certain conditions. The new requirement would apply to patent applications 
+filed in those countries, or with those intergovernmental organizations, that become party to 
+the new treaty. 
+The Diplomatic Conference: procedure and practical arrangements
+The Rules of Procedure of the Diplomatic Conference govern who can take part in the Diplomatic 
+Conference, how it will run, and how decisions will be taken. The Rules of Procedure will be 
+adopted at the commencement of the Conference. 
+Practical arrangements related to participation in the Diplomatic Conference are available at:
+www.wipo.int/diplomatic-conferences/en/genetic-resources/index.html  
+This is an informal note intended as a basic introduction to the upcoming Diplomatic Conference. 
+Formal documentation is available at the links below. 
+Diplomatic Conference on Intellectual Property and Genetic
+Resources in 2024  www.wipo.int/diplomatic-conferences/en/
+genetic-resources/index.html
+Key Questions on Patent Disclosure Requirements for Genetic
+Resources and Traditional Knowledge,
+www.wipo.int/publications/en/details.jsp?id=4498
+The WIPO Intergovernmental Committee on Intellectual Property
+and Genetic Resources, Traditional Knowledge and Folklore (IGC),
+www.wipo.int/traditional  knowledge/en/igc
+A series of Background Briefs prepared by WIPO on various topics,
+www.wipo.int/publications/en/series/index.jsp?id=144
+More WIPO resources are available at
+www.wipo.int/traditional  knowledge/en/global_reference.html
