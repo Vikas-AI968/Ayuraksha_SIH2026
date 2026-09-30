@@ -84,6 +84,71 @@ ip_sakti_rag/
 
 ---
 
+The complete flow of the Backend :
+
+```
+USER QUERY
+
+↓
+
+QUERY INTAKE
+
+↓
+
+QUERY ANALYSIS
+
+↓
+
+QUERY UNDERSTANDING
+
+↓
+
+CLASSIFICATION + ROUTING
+
+↓
+
+KNOWLEDGE GRAPH
+
+↓
+
+SEMANTIC + BM25 RETRIEVAL
+
+↓
+
+HYBRID FUSION
+
+↓
+
+RERANKING
+
+↓
+
+EVIDENCE PACK
+
+↓
+
+ABSTENTION CHECK
+
+↓
+
+LLM REASONING
+
+↓
+
+CITATION VALIDATION
+
+↓
+
+CONFIDENCE
+
+↓
+
+FINAL ANSWER
+
+```
+
+---
+
 ## Quick Start & Setup
 
 ### 1. Create Virtual Environment & Install Dependencies
